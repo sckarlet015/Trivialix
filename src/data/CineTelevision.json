@@ -1,0 +1,455 @@
+[
+    {
+      "id": 201,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Qué película de Disney presenta a una princesa llamada Ariel?",
+      "options": ["La Bella y la Bestia", "La Cenicienta", "La Sirenita", "Blancanieves y los Siete Enanitos"],
+      "correctOption": "La Sirenita",
+      "hints": ["Esta película animada se basa en el cuento de hadas homónimo de Hans Christian Andersen.", "Ariel es una joven sirena que sueña con vivir en la tierra."]
+    },
+    {
+      "id": 202,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Cuál es el nombre del famoso espía británico con código 007?",
+      "options": ["Jason Bourne", "Ethan Hunt", "James Bond", "George Smiley"],
+      "correctOption": "James Bond",
+      "hints": ["Este personaje es conocido por ser un agente secreto del MI6 creado por el autor Ian Fleming.", "Ha sido interpretado por varios actores a lo largo de los años, incluyendo a Sean Connery y Daniel Craig."]
+    },
+    {
+      "id": 203,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Qué serie de televisión sigue las vidas de los habitantes de la ciudad ficticia de Springfield?",
+      "options": ["Padre de Familia", "South Park", "Los Simpson", "Futurama"],
+      "correctOption": "Los Simpson",
+      "hints": ["Esta serie animada es conocida por su humor satírico y su longevidad.", "Homer, Marge, Bart, Lisa y Maggie son algunos de los personajes principales de la familia Simpson."]
+    },
+    {
+      "id": 204,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Qué película de ciencia ficción dirigida por Steven Spielberg presenta a un niño que hace amistad con un extraterrestre?",
+      "options": ["ET: El Extraterrestre", "Encuentros Cercanos del Tercer Tipo", "Los Goonies", "Cazafantasmas"],
+      "correctOption": "ET: El Extraterrestre",
+      "hints": ["Esta película se centra en la relación entre un niño llamado Elliott y un extraterrestre llamado ET.", "Fue un gran éxito de taquilla y es considerada un clásico del cine de los años 80."]
+    },
+    {
+      "id": 205,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Cuál es el nombre de la serie de televisión ambientada en un mundo de fantasía medieval que sigue las historias de Jon Snow, Daenerys Targaryen y Tyrion Lannister?",
+      "options": ["Vikings", "The Witcher", "Merlín", "Juego de Tronos"],
+      "correctOption": "Juego de Tronos",
+      "hints": ["Basada en las novelas de George R.R. Martin, esta serie es conocida por su intriga política y personajes complejos.", "Fue una de las series de televisión más populares y debatidas de su época."]
+    },
+    {
+      "id": 206,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Qué actor es conocido por su papel icónico como Capitán Jack Sparrow en la franquicia de películas 'Piratas del Caribe'?",
+      "options": ["Orlando Bloom", "Geoffrey Rush", "Johnny Depp", "Keira Knightley"],
+      "correctOption": "Johnny Depp",
+      "hints": ["Este actor es conocido por su versatilidad y su habilidad para interpretar personajes excéntricos.", "Su interpretación del Capitán Jack Sparrow se convirtió en uno de sus roles más famosos."]
+    },
+    {
+      "id": 207,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Qué famosa película de ciencia ficción presenta a un joven llamado Luke Skywalker que se convierte en un héroe en una galaxia muy, muy lejana?",
+      "options": ["Blade Runner", "Star Wars: Episodio IV - Una Nueva Esperanza", "Matrix", "Interstellar"],
+      "correctOption": "Star Wars: Episodio IV - Una Nueva Esperanza",
+      "hints": ["Esta película es el inicio de la saga Star Wars creada por George Lucas.", "Fue un gran éxito en la taquilla y se convirtió en un fenómeno cultural duradero."]
+    },
+    {
+      "id": 208,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿En qué película animada un juguete cowboy llamado Woody es el protagonista y líder de un grupo de juguetes en la habitación de un niño llamado Andy?",
+      "options": ["Toy Story", "Monsters, Inc.", "Buscando a Nemo", "Ratatouille"],
+      "correctOption": "Toy Story",
+      "hints": ["Esta película fue el primer largometraje animado completamente generado por computadora.", "La franquicia ha lanzado varias secuelas y es amada por personas de todas las edades."]
+    },
+    {
+      "id": 209,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Cuál es el título de la película en la que Leonardo DiCaprio y Kate Winslet interpretan a los personajes principales Jack y Rose?",
+      "options": ["Titanic", "Eterno Resplandor de una Mente sin Recuerdos", "El Gran Gatsby", "Revolutionary Road"],
+      "correctOption": "Titanic",
+      "hints": ["Esta película épica de romance y drama se basa en el hundimiento del famoso barco RMS Titanic.", "Fue un éxito masivo en taquilla y ganó varios premios Oscar."]
+    },
+    {
+      "id": 210,
+      "genre": "Cine y Televisión",
+      "difficulty": "facil",
+      "question": "¿Cuál es el título de la serie de televisión animada que presenta a una familia amarilla disfuncional y sus extravagantes vecinos?",
+      "options": ["Family Guy", "American Dad!", "The Simpsons", "South Park"],
+      "correctOption": "The Simpsons",
+      "hints": ["Esta serie ha sido un pilar en la cultura popular y ha abordado una amplia gama de temas y parodias a lo largo de los años.", "El creador de la serie, Matt Groening, también es conocido por su trabajo en Futurama."]
+    },
+    {
+        "id": 211,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿En qué película animada un ogro llamado Shrek se embarca en una aventura para rescatar a la princesa Fiona?",
+        "options": ["Buscando a Nemo", "Enredados", "Frozen", "Shrek"],
+        "correctOption": "Shrek",
+        "hints": ["Esta película de animación de DreamWorks presenta a un ogro cuya vida se ve trastornada cuando su pantano se llena de personajes de cuentos de hadas.", "La película es conocida por su humor y referencias a la cultura pop."]
+      },
+      {
+        "id": 212,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el nombre del personaje interpretado por Keanu Reeves en la franquicia de películas 'Matrix'?",
+        "options": ["John Wick", "Thomas Anderson", "Neo", "Morpheus"],
+        "correctOption": "Neo",
+        "hints": ["En 'Matrix', este personaje es un pirata informático que descubre la verdad detrás de la realidad simulada en la que vive.", "La trilogía 'Matrix' es conocida por su innovadora cinematografía y conceptos filosóficos."]
+      },
+      {
+        "id": 213,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el título de la película de terror dirigida por Steven Spielberg en la que un tiburón blanco aterroriza a los habitantes de un pueblo costero?",
+        "options": ["Deep Blue Sea", "Jaws (Tiburón)", "Sharknado", "Meg: Generación Megalodón"],
+        "correctOption": "Jaws (Tiburón)",
+        "hints": ["Esta película es considerada un clásico del cine de terror y es conocida por su icónica música.", "El tiburón mecánico utilizado en la película a menudo se llamaba 'Bruce' en el set."]
+      },
+      {
+        "id": 214,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el título de la película de ciencia ficción en la que un científico loco crea una máquina del tiempo a partir de un DeLorean?",
+        "options": ["Volver al Futuro", "Blade Runner", "Terminator", "El Día Después de Mañana"],
+        "correctOption": "Volver al Futuro",
+        "hints": ["Marty McFly y el Dr. Emmett Brown son los protagonistas de esta popular trilogía de películas.", "La película presenta viajes en el tiempo, paradojas y elementos humorísticos."]
+      },
+      {
+        "id": 215,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿En qué película de acción el personaje de Arnold Schwarzenegger declara 'Hasta la vista, baby' antes de destruir a un villano robótico?",
+        "options": ["Terminator 2: El Juicio Final", "Predator", "Total Recall", "Terminator Salvation"],
+        "correctOption": "Terminator 2: El Juicio Final",
+        "hints": ["Esta película es la secuela de 'The Terminator' y es considerada una de las mejores películas de acción de todos los tiempos.", "El personaje de Schwarzenegger, un Terminator reprogramado, es un protector de John Connor."]
+      },
+      {
+        "id": 216,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el nombre del famoso agente secreto británico que es conocido por ordenar su martini 'agitado, no revuelto'?",
+        "options": ["Ethan Hunt", "James Bond", "Jason Bourne", "George Smiley"],
+        "correctOption": "James Bond",
+        "hints": ["Este personaje ficticio es el protagonista de una serie de novelas y películas de espías creadas por Ian Fleming.", "Ha sido interpretado por varios actores en el cine, incluyendo a Sean Connery, Roger Moore y Daniel Craig."]
+      },
+      {
+        "id": 217,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el nombre de la serie de televisión que sigue las vidas de un grupo de amigos que viven en Manhattan y enfrentan desafíos personales y profesionales?",
+        "options": ["How I Met Your Mother", "Friends", "The Office", "Parks and Recreation"],
+        "correctOption": "Friends",
+        "hints": ["Esta serie es conocida por su icónica introducción musical, 'I'll Be There for You', y por su humor y momentos emotivos.", "El apartamento de Monica y Rachel en Nueva York es un lugar central en la serie."]
+      },
+      {
+        "id": 218,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el nombre del actor que interpretó a Iron Man en las películas del Universo Cinematográfico de Marvel?",
+        "options": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+        "correctOption": "Robert Downey Jr.",
+        "hints": ["Este actor es ampliamente reconocido por su papel como Tony Stark / Iron Man en varias películas de Marvel.", "Su interpretación ayudó a establecer el éxito del Universo Cinematográfico de Marvel."]
+      },
+      {
+        "id": 219,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el título de la película animada en la que un león joven llamado Simba busca reclamar su lugar como rey después de ser exiliado?",
+        "options": ["El Libro de la Selva", "Madagascar", "El Rey León", "Tarzán"],
+        "correctOption": "El Rey León",
+        "hints": ["Esta película de Disney es conocida por su música y emocionante historia que se inspira en la obra de teatro de Shakespeare, 'Hamlet'.", "El personaje de Rafiki es un sabio mandril que desempeña un papel importante en la vida de Simba."]
+      },
+      {
+        "id": 220,
+        "genre": "Cine y Televisión",
+        "difficulty": "facil",
+        "question": "¿Cuál es el nombre de la serie de televisión en la que un grupo de amigos comparten historias cómicas y emotivas sobre sus vidas y relaciones en la ciudad de Nueva York?",
+        "options": ["Sex and the City", "Friends", "The Big Bang Theory", "How I Met Your Mother"],
+        "correctOption": "How I Met Your Mother",
+        "hints": ["La serie está narrada en retrospectiva por el personaje Ted Mosby, quien comparte cómo conoció a la madre de sus hijos.", "El bar MacLaren's Pub es un lugar central en la serie y donde los amigos pasan mucho tiempo."]
+      },
+      {
+        "id": 221,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "En la serie de televisión 'Breaking Bad', ¿cuál es el nombre del personaje principal que se convierte en un fabricante y distribuidor de metanfetaminas?",
+        "options": ["Walter White", "Jesse Pinkman", "Saul Goodman", "Gustavo Fring"],
+        "correctOption": "Walter White",
+        "hints": ["Este personaje es un profesor de química que decide entrar en el mundo del crimen para asegurar el futuro financiero de su familia.", "La serie es aclamada por su compleja caracterización y trama."]
+      },
+      {
+        "id": 222,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el nombre del director de la trilogía de 'El Señor de los Anillos'?",
+        "options": ["Peter Jackson", "Christopher Nolan", "Steven Spielberg", "James Cameron"],
+        "correctOption": "Peter Jackson",
+        "hints": ["Este director neozelandés es conocido por su trabajo en adaptar las épicas novelas de J.R.R. Tolkien al cine.", "Además de 'El Señor de los Anillos', también dirigió la trilogía de 'El Hobbit'."]
+      },
+      {
+        "id": 223,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el título de la película de ciencia ficción dirigida por Ridley Scott en la que una tripulación se enfrenta a un organismo alienígena letal?",
+        "options": ["Blade Runner", "Aliens: El Regreso", "Prometheus", "Alien: El Octavo Pasajero"],
+        "correctOption": "Alien: El Octavo Pasajero",
+        "hints": ["Esta película de terror espacial es el comienzo de la exitosa franquicia 'Alien'.", "La criatura alienígena, conocida como Xenomorfo, se convirtió en un icono del género."]
+      },
+      {
+        "id": 224,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el título de la película de fantasía en la que un joven llamado Bastian lee un libro mágico que lo transporta a un mundo lleno de criaturas y aventuras?",
+        "options": ["Laberinto", "Narnia: El León, la Bruja y el Ropero", "La Historia Sin Fin", "El Mago de Oz"],
+        "correctOption": "La Historia Sin Fin",
+        "hints": ["La película se basa en la novela del mismo nombre escrita por Michael Ende.", "El protagonista del libro dentro de la película es Atreyu, un joven guerrero."]
+      },
+      {
+        "id": 225,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "En la serie de televisión 'Friends', ¿cuál es la profesión de Ross Geller?",
+        "options": ["Abogado", "Paleontólogo", "Médico", "Chef"],
+        "correctOption": "Paleontólogo",
+        "hints": ["Este personaje es conocido por su pasión por la paleontología y su sentido del humor torpe.", "El personaje de Ross está interpretado por David Schwimmer."]
+      },
+      {
+        "id": 226,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el nombre del actor que interpretó a Jack Dawson en la película 'Titanic'?",
+        "options": ["Leonardo DiCaprio", "Tom Hanks", "Brad Pitt", "Matt Damon"],
+        "correctOption": "Leonardo DiCaprio",
+        "hints": ["En 'Titanic', este actor interpreta a un pasajero de tercera clase que se enamora de una joven adinerada a bordo del famoso barco.", "La película fue dirigida por James Cameron y se convirtió en un éxito mundial."]
+      },
+      {
+        "id": 227,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el título de la película de Christopher Nolan en la que los personajes principales roban bancos y realizan hechos criminales en sueños compartidos?",
+        "options": ["Inception (Origen)", "Interstellar", "The Prestige", "Dunkirk"],
+        "correctOption": "Inception (Origen)",
+        "hints": ["Esta película de ciencia ficción se centra en el concepto de la implantación de ideas en la mente de alguien durante el sueño.", "El personaje de Cobb, interpretado por Leonardo DiCaprio, es el líder del equipo de ladrones de sueños."]
+      },
+      {
+        "id": 228,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el título de la película de Quentin Tarantino en la que dos asesinos a sueldo, Jules y Vincent, trabajan en el mundo del crimen en Los Ángeles?",
+        "options": ["Reservoir Dogs", "Pulp Fiction", "Kill Bill: Volumen 1", "Django sin Cadenas"],
+        "correctOption": "Pulp Fiction",
+        "hints": ["Esta película es conocida por su narrativa no lineal y su mezcla de diálogos ingeniosos, violencia y referencias pop.", "El personaje de Uma Thurman, Mia Wallace, también es icónico en la película."]
+      },
+      {
+        "id": 229,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el nombre del actor que interpretó a Darth Vader en la trilogía original de 'Star Wars'?",
+        "options": ["Mark Hamill", "Harrison Ford", "Alec Guinness", "David Prowse"],
+        "correctOption": "David Prowse",
+        "hints": ["Aunque el actor David Prowse interpretó a Darth Vader físicamente, la voz del personaje fue proporcionada por James Earl Jones.", "Darth Vader es uno de los villanos más emblemáticos en la historia del cine."]
+      },
+      {
+        "id": 230,
+        "genre": "Cine y Televisión",
+        "difficulty": "medio",
+        "question": "¿Cuál es el título de la serie de televisión en la que un grupo de supervivientes lucha por sobrevivir en un mundo postapocalíptico infestado de zombis?",
+        "options": ["Breaking Bad", "Stranger Things", "The Walking Dead", "Game of Thrones"],
+        "correctOption": "The Walking Dead",
+        "hints": ["Basada en un cómic del mismo nombre, esta serie sigue las luchas y relaciones de un grupo diverso de sobrevivientes.", "El personaje de Rick Grimes, interpretado por Andrew Lincoln, es uno de los protagonistas principales."]
+      },
+      {
+        "id": 231,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el título de la película dirigida por Stanley Kubrick en la que un joven psicópata llamado Alex se dedica a la ultraviolencia y la música clásica?",
+        "options": ["A Clockwork Orange (La Naranja Mecánica)", "Full Metal Jacket", "2001: A Space Odyssey (2001: Odisea del Espacio)", "Eyes Wide Shut"],
+        "correctOption": "A Clockwork Orange (La Naranja Mecánica)",
+        "hints": ["Esta película se basa en la novela del mismo nombre escrita por Anthony Burgess.", "La película es conocida por su estilo visual distintivo y su exploración de la violencia y la libre voluntad."]
+      },
+      {
+        "id": 232,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "En la serie de televisión 'Friends', ¿cuál es el apellido de Ross y Monica?",
+        "options": ["Geller", "Green", "Bing", "Buffay"],
+        "correctOption": "Geller",
+        "hints": ["Ross y Monica son hermanos en la serie y comparten este apellido.", "El apellido de los personajes refleja su ascendencia judía."]
+      },
+      {
+        "id": 233,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el nombre del director de la película '2001: A Space Odyssey'?",
+        "options": ["Christopher Nolan", "Stanley Kubrick", "Steven Spielberg", "James Cameron"],
+        "correctOption": "Stanley Kubrick",
+        "hints": ["Esta película de ciencia ficción es conocida por su estilo visual vanguardista y su enigmática trama.", "Kubrick es un director aclamado por películas como 'El Resplandor' y 'La Naranja Mecánica'."]
+      },
+      {
+        "id": 234,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el nombre del actor que interpretó a Tony Stark, también conocido como Iron Man, en el Universo Cinematográfico de Marvel?",
+        "options": ["Chris Hemsworth", "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+        "correctOption": "Robert Downey Jr.",
+        "hints": ["Este actor fue el pionero en dar vida a Iron Man en la película homónima de 2008.", "El personaje de Tony Stark se convirtió en uno de los más icónicos del MCU."]
+      },
+      {
+        "id": 235,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el título de la serie de televisión en la que un profesor de química se convierte en un fabricante y distribuidor de metanfetaminas tras ser diagnosticado con cáncer?",
+        "options": ["Narcos", "The Wire", "Breaking Bad", "Ozark"],
+        "correctOption": "Breaking Bad",
+        "hints": ["La serie se centra en la transformación del personaje principal, Walter White, en el mundo del crimen.", "El actor Bryan Cranston interpreta a Walter White."]
+      },
+      {
+        "id": 236,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el título de la película de ciencia ficción en la que un astronauta queda varado en Marte y lucha por sobrevivir hasta ser rescatado?",
+        "options": ["Interstellar", "Gravity", "The Martian (Misión Rescate)", "Moon"],
+        "correctOption": "The Martian (Misión Rescate)",
+        "hints": ["La película está basada en la novela de Andy Weir y fue dirigida por Ridley Scott.", "El protagonista del filme, Mark Watney, es interpretado por Matt Damon."]
+      },
+      {
+        "id": 237,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el título de la película de ciencia ficción en la que un equipo de investigadores intenta descubrir el origen de una misteriosa señal extraterrestre?",
+        "options": ["Arrival (La Llegada)", "Contact", "The Day the Earth Stood Still (El Día que la Tierra Se Detuvo)", "Blade Runner"],
+        "correctOption": "Arrival (La Llegada)",
+        "hints": ["Esta película explora temas de comunicación con seres extraterrestres y la percepción del tiempo.", "El personaje de Louise Banks, interpretado por Amy Adams, desempeña un papel central en la trama."]
+      },
+      {
+        "id": 238,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el nombre del villano interpretado por Heath Ledger en la película 'The Dark Knight' (El Caballero de la Noche)?",
+        "options": ["Two-Face (Dos Caras)", "The Joker (El Guasón)", "The Riddler (El Acertijo)", "Bane"],
+        "correctOption": "The Joker (El Guasón)",
+        "hints": ["La actuación de Heath Ledger como este icónico villano le valió un premio Óscar póstumo.", "El Guasón es conocido por su caótica personalidad y su enigmático sentido del humor."]
+      },
+      {
+        "id": 239,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el título de la serie de televisión en la que un profesor de química se convierte en un fabricante y distribuidor de metanfetaminas tras ser diagnosticado con cáncer?",
+        "options": ["Narcos", "The Wire", "Breaking Bad", "Ozark"],
+        "correctOption": "Breaking Bad",
+        "hints": ["La serie se centra en la transformación del personaje principal, Walter White, en el mundo del crimen.", "El actor Bryan Cranston interpreta a Walter White."]
+      },
+      {
+        "id": 240,
+        "genre": "Cine y Televisión",
+        "difficulty": "dificil",
+        "question": "¿Cuál es el nombre del director de la película '2001: A Space Odyssey'?",
+        "options": ["Christopher Nolan", "Stanley Kubrick", "Steven Spielberg", "James Cameron"],
+        "correctOption": "Stanley Kubrick",
+        "hints": ["Esta película de ciencia ficción es conocida por su estilo visual vanguardista y su enigmática trama.", "Kubrick es un director aclamado por películas como 'El Resplandor' y 'La Naranja Mecánica'."]
+      },
+      {
+        "id": 241,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Cuál es el título de la película en la que un hombre llamado Truman vive su vida en un set de televisión sin saber que es el protagonista de un reality show?",
+        "options": ["The Matrix", "The Adjustment Bureau (El Planeta de los Simios)", "The Truman Show", "Eternal Sunshine of the Spotless Mind (¡Olvídate de Mí!)"],
+        "correctOption": "The Truman Show",
+        "hints": ["Esta película es una sátira de los reality shows y la obsesión por la televisión.", "El personaje de Truman Burbank, interpretado por Jim Carrey, descubre gradualmente la verdad detrás de su vida."]
+      },
+      {
+        "id": 242,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Qué aclamado director de cine dirigió la película 'Pulp Fiction'?",
+        "options": ["Martin Scorsese", "Christopher Nolan", "Quentin Tarantino", "Steven Spielberg"],
+        "correctOption": "Quentin Tarantino",
+        "hints": ["Este director es conocido por su estilo distintivo, diálogos memorables y referencias a la cultura pop.", "Además de 'Pulp Fiction', ha dirigido películas como 'Kill Bill', 'Django Unchained' e 'Inglourious Basterds'."]
+      },
+      {
+        "id": 243,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "En la serie de televisión 'Breaking Bad', ¿qué elemento químico se utiliza para cocinar metanfetaminas?",
+        "options": ["Cianuro", "Mercurio", "Litio", "Metilamina"],
+        "correctOption": "Metilamina",
+        "hints": ["La metilamina es un compuesto químico que desempeña un papel fundamental en el proceso de fabricación de metanfetaminas.", "Walter White, el protagonista de la serie, es un profesor de química que utiliza su conocimiento para elaborar drogas."]
+      },
+      {
+        "id": 244,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Cuál es el nombre del planeta natal de Chewbacca en la saga de 'Star Wars'?",
+        "options": ["Tatooine", "Kamino", "Endor", "Kashyyyk"],
+        "correctOption": "Kashyyyk",
+        "hints": ["Chewbacca es un wookiee y su planeta natal es conocido por su densa vegetación y grandes árboles.", "El planeta aparece en varias películas de 'Star Wars' y es el hogar de la especie wookiee."]
+      },
+      {
+        "id": 245,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Cuál es el título de la película en la que un ladrón llamado Dom Cobb se involucra en el mundo del espionaje corporativo a través de la tecnología de infiltración de sueños?",
+        "options": ["Inception (Origen)", "Eternal Sunshine of the Spotless Mind (¡Olvídate de Mí!)", "The Matrix", "Minority Report"],
+        "correctOption": "Inception (Origen)",
+        "hints": ["La película es conocida por su compleja trama que explora los conceptos de la realidad y los sueños.", "Fue dirigida por Christopher Nolan y protagonizada por Leonardo DiCaprio."]
+      },
+      {
+        "id": 246,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Cuál es el título de la película en la que un hombre de negocios exitoso se ve atrapado en un bucle de tiempo, reviviendo el mismo día una y otra vez?",
+        "options": ["Edge of Tomorrow (Al Filo del Mañana)", "Looper", "Groundhog Day (El Día de la Marmota)", "Predestination"],
+        "correctOption": "Groundhog Day (El Día de la Marmota)",
+        "hints": ["El título de la película hace referencia a una festividad que se celebra en Estados Unidos.", "Bill Murray interpreta al protagonista que experimenta el ciclo repetitivo."]
+      },
+      {
+        "id": 247,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "En la serie de televisión 'Game of Thrones', ¿cuál es el nombre de la espada ancestral de la Casa Stark?",
+        "options": ["Longclaw", "Oathkeeper (Guardajuramentos)", "Ice (Hielo)", "Dark Sister (Hermana Oscura)"],
+        "correctOption": "Ice (Hielo)",
+        "hints": ["Esta espada de gran tamaño es un símbolo de la Casa Stark y se utiliza para llevar a cabo ejecuciones de alto rango.", "La espada es forjada con acero valyrio y más tarde es refundida en dos espadas más pequeñas."]
+      },
+      {
+        "id": 248,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿En qué película de Quentin Tarantino los personajes principales visitan una tienda llamada 'Big Kahuna Burger'?",
+        "options": ["Pulp Fiction", "Reservoir Dogs", "Kill Bill: Vol. 1", "Jackie Brown"],
+        "correctOption": "Pulp Fiction",
+        "hints": ["La escena en la que se menciona 'Big Kahuna Burger' se ha vuelto icónica y es conocida por los fanáticos del cine.", "La película presenta múltiples historias entrelazadas y diálogos memorables."]
+      },
+      {
+        "id": 249,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Cuál es el nombre del androide interpretado por Rutger Hauer en la película 'Blade Runner'?",
+        "options": ["Bishop", "Data", "Roy Batty", "HAL 9000"],
+        "correctOption": "Roy Batty",
+        "hints": ["Este personaje es uno de los replicantes renegados en la película de ciencia ficción.", "La escena final de la película, en la que Batty pronuncia un monólogo emotivo, es especialmente memorable."]
+      },
+      {
+        "id": 250,
+        "genre": "Cine y Televisión",
+        "difficulty": "experto",
+        "question": "¿Qué película de culto dirigida por David Lynch presenta personajes como Dale Cooper y Laura Palmer?",
+        "options": ["Lost Highway", "Blue Velvet", "Eraserhead", "Twin Peaks: Fire Walk with Me"],
+        "correctOption": "Twin Peaks: Fire Walk with Me",
+        "hints": ["La película es una precuela de la serie de televisión 'Twin Peaks', creada por David Lynch y Mark Frost.", "Twin Peaks es conocida por su misterio, surrealismo y personajes intrigantes."]
+      }
+  ]
+
+  
+  

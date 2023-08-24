@@ -1,0 +1,37 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    margin-block: auto;
+}
+.nameCarousel{
+    margin-block: auto; 
+}
+.carousel{
+    width: 400px;
+    text-align: -webkit-center;
+}
+.contImg{
+    width: 100%;
+    height: 300px;
+}
+ul{
+    margin-block: auto; 
+}
+.image{
+    width: 100%;
+    height: 100%;
+    margin-block: auto; 
+}
+.item{
+    margin-block: auto;  
+}
+.btn{
+   margin: 5px;
+}
+.play{
+    margin-block: auto;  
+}

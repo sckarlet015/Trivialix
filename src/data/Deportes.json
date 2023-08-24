@@ -1,0 +1,852 @@
+[
+  {
+    "id": 101,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se utiliza una pelota y una canasta?",
+    "options": [
+      "Fútbol",
+      "Baloncesto",
+      "Voleibol",
+      "Tenis"
+    ],
+    "correctOption": "Baloncesto",
+    "hints": [
+      "Este deporte se juega en equipos de cinco jugadores y es muy popular en todo el mundo.",
+      "El objetivo es encestar la pelota en la canasta del equipo contrario."
+    ]
+  },
+  {
+    "id": 102,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se otorga un 'birdie' y un 'eagle'?",
+    "options": [
+      "Fútbol",
+      "Golf",
+      "Atletismo",
+      "Natación"
+    ],
+    "correctOption": "Golf",
+    "hints": [
+      "Es un deporte en el que los jugadores usan palos para golpear la pelota y llevarla al hoyo en el menor número de golpes posible.",
+      "Los términos 'birdie' y 'eagle' se refieren a golpes bajo el par del hoyo."
+    ]
+  },
+  {
+    "id": 103,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Cuál es el deporte en el que se compite en una pista corriendo en carriles?",
+    "options": [
+      "Ciclismo",
+      "Atletismo",
+      "Natación",
+      "Esgrima"
+    ],
+    "correctOption": "Atletismo",
+    "hints": [
+      "Este deporte incluye varias disciplinas como carreras, saltos y lanzamientos.",
+      "Se lleva a cabo en pistas con diferentes distancias, y los atletas corren en carriles separados."
+    ]
+  },
+  {
+    "id": 104,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Cuál es el deporte en el que dos equipos compiten para anotar goles con un disco en la portería del oponente?",
+    "options": [
+      "Fútbol",
+      "Baloncesto",
+      "Hockey sobre hielo",
+      "Tenis"
+    ],
+    "correctOption": "Hockey sobre hielo",
+    "hints": [
+      "Se juega en una pista de hielo y los jugadores utilizan palos para golpear el disco y marcar goles.",
+      "Es especialmente popular en regiones con climas fríos y cuenta con una liga profesional muy conocida."
+    ]
+  },
+  {
+    "id": 105,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se usa una raqueta y una red para golpear una pelota sobre la red?",
+    "options": [
+      "Baloncesto",
+      "Voleibol",
+      "Tenis",
+      "Atletismo"
+    ],
+    "correctOption": "Tenis",
+    "hints": [
+      "Se juega individualmente o en parejas, y el objetivo es golpear la pelota de manera que el oponente no pueda devolverla.",
+      "Los torneos de Grand Slam, como Wimbledon y el Abierto de Estados Unidos, son eventos destacados en este deporte."
+    ]
+  },
+  {
+    "id": 106,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se compite en una piscina y se utilizan varios estilos de natación?",
+    "options": [
+      "Atletismo",
+      "Gimnasia",
+      "Natación",
+      "Ciclismo"
+    ],
+    "correctOption": "Natación",
+    "hints": [
+      "Los estilos de natación incluyen crol, espalda, pecho y mariposa.",
+      "Es un deporte acuático en el que los nadadores compiten en diferentes distancias y estilos en una piscina."
+    ]
+  },
+  {
+    "id": 107,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se compite en una pista y campo realizando saltos y lanzamientos?",
+    "options": [
+      "Fútbol",
+      "Baloncesto",
+      "Atletismo",
+      "Natación"
+    ],
+    "correctOption": "Atletismo",
+    "hints": [
+      "Es uno de los deportes más antiguos y abarca una amplia variedad de disciplinas.",
+      "Los atletas compiten en carreras, saltos de longitud y altura, lanzamientos de disco y jabalina, y más."
+    ]
+  },
+  {
+    "id": 108,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se lucha por controlar una pelota con los pies y marcar goles en la portería del oponente?",
+    "options": [
+      "Baloncesto",
+      "Voleibol",
+      "Fútbol",
+      "Tenis"
+    ],
+    "correctOption": "Fútbol",
+    "hints": [
+      "Es el deporte más popular y ampliamente jugado en el mundo.",
+      "Los equipos compiten en partidos donde el objetivo es marcar más goles que el oponente."
+    ]
+  },
+  {
+    "id": 109,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se compite en una pista y campo realizando carreras de diferentes distancias?",
+    "options": [
+      "Ciclismo",
+      "Atletismo",
+      "Natación",
+      "Esgrima"
+    ],
+    "correctOption": "Atletismo",
+    "hints": [
+      "Es una actividad física fundamental y abarca carreras de corta y larga distancia.",
+      "Las competencias incluyen carreras de velocidad, medio fondo, fondo y relevos."
+    ]
+  },
+  {
+    "id": 110,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se juega en un campo con una pelota redonda y se anotan goles al llevar la pelota sobre la línea de gol del oponente?",
+    "options": [
+      "Baloncesto",
+      "Voleibol",
+      "Fútbol",
+      "Tenis"
+    ],
+    "correctOption": "Fútbol",
+    "hints": [
+      "Es conocido como el 'deporte rey' y tiene una gran base de seguidores en todo el mundo.",
+      "Los equipos compiten por anotar goles al llevar la pelota al arco del oponente y cruzar la línea de gol."
+    ]
+  },
+  {
+    "id": 111,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte se utiliza una raqueta y una pelota amarilla y se juega en una cancha dividida por una red?",
+    "options": [
+      "Tenis",
+      "Baloncesto",
+      "Fútbol",
+      "Golf"
+    ],
+    "correctOption": "Tenis",
+    "hints": [
+      "Es un deporte de raqueta que se juega en individuales (uno contra uno) o dobles (dos contra dos).",
+      "El objetivo es golpear la pelota sobre la red y dentro de los límites de la cancha para ganar puntos."
+    ]
+  },
+  {
+    "id": 112,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Qué deporte se juega en una pista circular y consiste en correr una cantidad determinada de vueltas?",
+    "options": [
+      "Ciclismo",
+      "Atletismo",
+      "Natación",
+      "Esgrima"
+    ],
+    "correctOption": "Atletismo",
+    "hints": [
+      "Es una disciplina del atletismo que involucra carreras en una pista cerrada.",
+      "Las distancias pueden variar desde 800 metros hasta 10,000 metros, y los corredores dan vueltas alrededor de la pista."
+    ]
+  },
+  {
+    "id": 113,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Cuál es el deporte que se juega en una piscina y los equipos compiten por lanzar la pelota en la portería del oponente?",
+    "options": [
+      "Atletismo",
+      "Natación sincronizada",
+      "Natación",
+      "Waterpolo"
+    ],
+    "correctOption": "Waterpolo",
+    "hints": [
+      "Los jugadores nadan en la piscina mientras pasan la pelota y tratan de anotar goles en la portería del equipo contrario.",
+      "Es un deporte acuático que combina habilidades de natación y estrategia de juego."
+    ]
+  },
+  {
+    "id": 114,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte los jugadores compiten por encestar la pelota en una canasta ubicada a diferentes alturas?",
+    "options": [
+      "Baloncesto",
+      "Fútbol",
+      "Gimnasia rítmica",
+      "Hockey sobre hielo"
+    ],
+    "correctOption": "Baloncesto",
+    "hints": [
+      "Se juega en equipos de cinco jugadores y se considera uno de los deportes de equipo más populares.",
+      "Las canastas están ubicadas a diferentes alturas, y los puntos se anotan al encestar la pelota en la canasta del equipo contrario."
+    ]
+  },
+  {
+    "id": 115,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Cuál es el deporte en el que los jugadores compiten por marcar puntos al llevar la pelota sobre la línea de gol del equipo contrario?",
+    "options": [
+      "Baloncesto",
+      "Fútbol americano",
+      "Fútbol",
+      "Golf"
+    ],
+    "correctOption": "Fútbol americano",
+    "hints": [
+      "Se juega con un balón ovalado y los equipos intentan avanzar hacia la zona de anotación del oponente.",
+      "Los puntos se anotan al cruzar la línea de gol o al atrapar el balón en la zona de anotación."
+    ]
+  },
+  {
+    "id": 116,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte los equipos compiten por golpear una pelota con un bate y correr alrededor de bases para anotar carreras?",
+    "options": [
+      "Tenis de mesa",
+      "Béisbol",
+      "Voleibol",
+      "Atletismo"
+    ],
+    "correctOption": "Béisbol",
+    "hints": [
+      "Se juega en un campo con bases en forma de diamante y los jugadores intentan golpear la pelota lanzada por el pitcher.",
+      "Las carreras se anotan al recorrer las bases y llegar a la base de inicio."
+    ]
+  },
+  {
+    "id": 117,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Qué deporte se juega en un campo largo y ancho, donde los equipos compiten por patear la pelota hacia la portería del oponente?",
+    "options": [
+      "Tenis",
+      "Golf",
+      "Fútbol",
+      "Natación"
+    ],
+    "correctOption": "Fútbol",
+    "hints": [
+      "Es el deporte más popular del mundo y se juega en equipos de once jugadores.",
+      "El objetivo es anotar goles al patear la pelota hacia la portería del equipo contrario."
+    ]
+  },
+  {
+    "id": 118,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte los jugadores compiten por realizar acrobacias y rutinas coreografiadas en el aire utilizando trampolines?",
+    "options": [
+      "Gimnasia rítmica",
+      "Salto con garrocha",
+      "Gimnasia artística",
+      "Salto con pértiga"
+    ],
+    "correctOption": "Salto con garrocha",
+    "hints": [
+      "Los atletas corren con una pértiga en mano y se impulsan para saltar sobre una barra ubicada en altura.",
+      "El objetivo es superar la barra sin derribarla y caer en el colchón de aterrizaje."
+    ]
+  },
+  {
+    "id": 119,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿Qué deporte se practica en el agua y consiste en realizar movimientos rítmicos y elegantes de nado sincronizado?",
+    "options": [
+      "Atletismo",
+      "Natación",
+      "Natación sincronizada",
+      "Waterpolo"
+    ],
+    "correctOption": "Natación sincronizada",
+    "hints": [
+      "Los equipos realizan rutinas coreografiadas en el agua, combinando nado, acrobacias y música.",
+      "La coordinación y la gracia son fundamentales en este deporte acuático."
+    ]
+  },
+  {
+    "id": 120,
+    "genre": "Deportes",
+    "difficulty": "facil",
+    "question": "¿En qué deporte los equipos compiten por lanzar una pelota en la portería del oponente y evitar que la pelota cruce su propia línea de gol?",
+    "options": [
+      "Voleibol",
+      "Fútbol americano",
+      "Hockey sobre hielo",
+      "Fútbol"
+    ],
+    "correctOption": "Hockey sobre hielo",
+    "hints": [
+      "Se juega en una pista de hielo y los equipos utilizan palos para golpear una pelota o un disco en dirección a la portería del oponente.",
+      "Los jugadores patinan sobre hielo y se enfrentan en un emocionante juego de velocidad y estrategia."
+    ]
+  },
+  {
+    "id": 121,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿Cuál es el único deporte que se ha jugado en la Luna?",
+    "options": [
+      "Fútbol",
+      "Golf",
+      "Baloncesto",
+      "Atletismo"
+    ],
+    "correctOption": "Golf",
+    "hints": [
+      "Durante la misión Apollo 14, el astronauta Alan Shepard jugó una partida de este deporte en la superficie lunar.",
+      "La gravedad lunar permitió que la pelota viajara mucho más lejos de lo que habría sido posible en la Tierra."
+    ]
+  },
+  {
+    "id": 122,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿En qué deporte se usa un término similar a 'birdie' para referirse a un golpe bajo el par de un hoyo?",
+    "options": [
+      "Golf",
+      "Tenis",
+      "Béisbol",
+      "Fútbol"
+    ],
+    "correctOption": "Golf",
+    "hints": [
+      "El término 'birdie' se utiliza cuando un jugador completa un hoyo con un golpe por debajo del par.",
+      "Este deporte se juega en campos extensos con hoyos numerados y obstáculos naturales o artificiales."
+    ]
+  },
+  {
+    "id": 123,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿Cuál es el país de origen del deporte del sumo?",
+    "options": [
+      "Japón",
+      "China",
+      "Corea del Sur",
+      "Mongolia"
+    ],
+    "correctOption": "Japón",
+    "hints": [
+      "El sumo es un deporte de lucha en el que los luchadores intentan empujar a su oponente fuera de un círculo de arena.",
+      "Este deporte tiene una larga tradición en Japón y es considerado un arte marcial."
+    ]
+  },
+  {
+    "id": 124,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿Cuál es el torneo de tenis más prestigioso y antiguo del mundo?",
+    "options": [
+      "US Open",
+      "Australian Open",
+      "Wimbledon",
+      "Roland Garros"
+    ],
+    "correctOption": "Wimbledon",
+    "hints": [
+      "Este torneo se juega en césped y se lleva a cabo en el All England Lawn Tennis and Croquet Club en Londres, Reino Unido.",
+      "Es uno de los cuatro torneos de Grand Slam y atrae a los mejores jugadores de tenis de todo el mundo."
+    ]
+  },
+  {
+    "id": 125,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿Qué deporte se juega en un campo con obstáculos de agua, dunas de arena y greens, y se compite por golpear una pelota en el hoyo en la menor cantidad de golpes posible?",
+    "options": [
+      "Fútbol",
+      "Tenis",
+      "Golf",
+      "Baloncesto"
+    ],
+    "correctOption": "Golf",
+    "hints": [
+      "Los jugadores utilizan diferentes tipos de palos para realizar distintos tipos de golpes en este deporte.",
+      "El objetivo es completar el recorrido en el menor número de golpes posible, y el ganador es quien tenga menos golpes al final."
+    ]
+  },
+  {
+    "id": 126,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿En qué deporte los equipos compiten por avanzar el balón hacia la zona de anotación del oponente y anotar touchdowns?",
+    "options": [
+      "Balonmano",
+      "Fútbol americano",
+      "Baloncesto",
+      "Voleibol"
+    ],
+    "correctOption": "Fútbol americano",
+    "hints": [
+      "Este deporte se juega con un balón ovalado y los equipos avanzan a través de jugadas de carrera y pases.",
+      "Los touchdowns se anotan al cruzar la línea de gol con el balón en posesión."
+    ]
+  },
+  {
+    "id": 127,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿Cuál es el único deporte que se ha jugado en la Luna?",
+    "options": [
+      "Fútbol",
+      "Golf",
+      "Baloncesto",
+      "Atletismo"
+    ],
+    "correctOption": "Golf",
+    "hints": [
+      "Durante la misión Apollo 14, el astronauta Alan Shepard jugó una partida de este deporte en la superficie lunar.",
+      "La gravedad lunar permitió que la pelota viajara mucho más lejos de lo que habría sido posible en la Tierra."
+    ]
+  },
+  {
+    "id": 128,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿En qué deporte los jugadores compiten por realizar acrobacias y rutinas coreografiadas en el aire utilizando trampolines?",
+    "options": [
+      "Gimnasia rítmica",
+      "Salto con garrocha",
+      "Gimnasia artística",
+      "Salto con pértiga"
+    ],
+    "correctOption": "Salto con garrocha",
+    "hints": [
+      "Los atletas corren con una pértiga en mano y se impulsan para saltar sobre una barra ubicada en altura.",
+      "El objetivo es superar la barra sin derribarla y caer en el colchón de aterrizaje."
+    ]
+  },
+  {
+    "id": 129,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿En qué deporte los equipos compiten por lanzar una pelota en la portería del oponente y evitar que la pelota cruce su propia línea de gol?",
+    "options": [
+      "Voleibol",
+      "Fútbol americano",
+      "Hockey sobre hielo",
+      "Fútbol"
+    ],
+    "correctOption": "Hockey sobre hielo",
+    "hints": [
+      "Se juega en una pista de hielo y los equipos utilizan palos para golpear una pelota o un disco en dirección a la portería del oponente.",
+      "Los jugadores patinan sobre hielo y se enfrentan en un emocionante juego de velocidad y estrategia."
+    ]
+  },
+  {
+    "id": 130,
+    "genre": "Deportes",
+    "difficulty": "medio",
+    "question": "¿En qué deporte los equipos compiten por marcar puntos arrojando una pelota en un aro elevado?",
+    "options": [
+      "Hockey sobre césped",
+      "Baloncesto",
+      "Rugby",
+      "Atletismo"
+    ],
+    "correctOption": "Baloncesto",
+    "hints": [
+      "Se juega en una cancha con un aro elevado en cada extremo, y los equipos intentan encestar la pelota en el aro del oponente para sumar puntos.",
+      "Los jugadores deben driblar la pelota y trabajar en equipo para lograr jugadas exitosas."
+    ]
+  },
+  {
+    "id": 131,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿En qué año se celebró el primer Mundial de Fútbol?",
+    "options": [
+      "1930",
+      "1924",
+      "1934",
+      "1928"
+    ],
+    "correctOption": "1930",
+    "hints": [
+      "El torneo se llevó a cabo en Uruguay y fue organizado por la FIFA.",
+      "Participaron solo 13 equipos y Uruguay se consagró campeón al vencer a Argentina en la final."
+    ]
+  },
+  {
+    "id": 132,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Quién ostenta el récord del mundo en el salto con garrocha en la categoría masculina?",
+    "options": [
+      "Renaud Lavillenie",
+      "Sergey Bubka",
+      "Thiago Braz",
+      "Armand Duplantis"
+    ],
+    "correctOption": "Armand Duplantis",
+    "hints": [
+      "Este atleta sueco estableció el récord en 6.18 metros en 2020.",
+      "Ha sido uno de los protagonistas más destacados en la disciplina del salto con garrocha en los últimos años."
+    ]
+  },
+  {
+    "id": 133,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿En qué deporte se utiliza la expresión 'córner corto' para referirse a una oportunidad de ataque?",
+    "options": [
+      "Hockey sobre césped",
+      "Fútbol",
+      "Hockey sobre hielo",
+      "Rugby"
+    ],
+    "correctOption": "Hockey sobre césped",
+    "hints": [
+      "El 'córner corto' es una jugada de ataque que se realiza en este deporte.",
+      "Consiste en un tiro libre directo cerca de la línea de gol del oponente, desde una esquina del campo."
+    ]
+  },
+  {
+    "id": 134,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Cuál es el deporte que se caracteriza por tener cuatro estilos de competición: mariposa, espalda, pecho y libre?",
+    "options": [
+      "Atletismo",
+      "Natación",
+      "Ciclismo",
+      "Esgrima"
+    ],
+    "correctOption": "Natación",
+    "hints": [
+      "Los nadadores compiten en distintos estilos de natación: mariposa, espalda, pecho y libre.",
+      "En las competencias de estilo libre, los nadadores pueden elegir cualquier estilo de natación, mientras que en los demás estilos deben seguir reglas específicas."
+    ]
+  },
+  {
+    "id": 135,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Cuál es el récord de más puntos anotados en un solo partido de baloncesto de la NBA?",
+    "options": [
+      "81 puntos",
+      "100 puntos",
+      "74 puntos",
+      "69 puntos"
+    ],
+    "correctOption": "100 puntos",
+    "hints": [
+      "Este récord fue establecido por Wilt Chamberlain el 2 de marzo de 1962.",
+      "Chamberlain jugaba para los Philadelphia Warriors en un partido contra los New York Knicks."
+    ]
+  },
+  {
+    "id": 136,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿En qué deporte se compite por el trofeo conocido como 'Copa América'?",
+    "options": [
+      "Fútbol americano",
+      "Rugby",
+      "Fútbol",
+      "Hockey sobre hielo"
+    ],
+    "correctOption": "Fútbol",
+    "hints": [
+      "La 'Copa América' es uno de los torneos más prestigiosos de selecciones nacionales de fútbol.",
+      "Se juega en América del Sur y ha sido escenario de emocionantes enfrentamientos entre los equipos sudamericanos."
+    ]
+  },
+  {
+    "id": 137,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Cuál es la longitud oficial de una pista de atletismo para carreras de 100 metros?",
+    "options": [
+      "100 metros",
+      "150 metros",
+      "200 metros",
+      "400 metros"
+    ],
+    "correctOption": "100 metros",
+    "hints": [
+      "La distancia oficial de una pista para carreras de 100 metros es la misma que la distancia de la carrera.",
+      "Es una de las distancias más cortas en el atletismo y requiere explosividad y velocidad."
+    ]
+  },
+  {
+    "id": 138,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Cuál es el deporte que se desarrolla en una cancha llamada 'frontón' y en el que los jugadores golpean la pelota con la mano?",
+    "options": [
+      "Tenis",
+      "Pelota vasca",
+      "Squash",
+      "Racquetball"
+    ],
+    "correctOption": "Pelota vasca",
+    "hints": [
+      "El juego de pelota vasca se practica en varias modalidades y se caracteriza por golpear la pelota con la mano o con instrumentos.",
+      "El frontón es la cancha donde se juega y puede variar en tamaño y forma según la modalidad."
+    ]
+  },
+  {
+    "id": 139,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Cuál es el nombre del famoso torneo de tenis que se juega en la hierba del All England Lawn Tennis and Croquet Club en Londres?",
+    "options": [
+      "US Open",
+      "Roland Garros",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "correctOption": "Wimbledon",
+    "hints": [
+      "Es uno de los torneos de Grand Slam y se considera el torneo de tenis más antiguo.",
+      "Los jugadores compiten en césped y es conocido por su elegancia y tradición."
+    ]
+  },
+  {
+    "id": 140,
+    "genre": "Deportes",
+    "difficulty": "dificil",
+    "question": "¿Qué deporte tiene una pista ovalada de 400 metros y se corre en sentido contrario a las agujas del reloj?",
+    "options": [
+      "Ciclismo de pista",
+      "Atletismo",
+      "Natación",
+      "Carrera de relevos"
+    ],
+    "correctOption": "Ciclismo de pista",
+    "hints": [
+      "En esta disciplina del ciclismo, los ciclistas compiten en una pista ovalada y deben mantenerse en su carril asignado.",
+      "Las bicicletas de pista no tienen frenos y los ciclistas deben modular su velocidad inclinándose en las curvas."
+    ]
+  },
+  {
+    "id": 141,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Qué equipo de fútbol ha ganado más títulos de la Copa Libertadores?",
+    "options": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente",
+      "Peñarol"
+    ],
+    "correctOption": "Independiente",
+    "hints": [
+      "Este club argentino es conocido por su rica historia en competencias internacionales.",
+      "Independiente ha ganado un total de 7 títulos de la Copa Libertadores."
+    ]
+  },
+  {
+    "id": 142,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el récord mundial masculino en los 100 metros lisos?",
+    "options": [
+      "9.58 segundos",
+      "9.69 segundos",
+      "9.74 segundos",
+      "9.79 segundos"
+    ],
+    "correctOption": "9.58 segundos",
+    "hints": [
+      "Este récord fue establecido por Usain Bolt en 2009.",
+      "Bolt es ampliamente considerado uno de los atletas más rápidos de todos los tiempos."
+    ]
+  },
+  {
+    "id": 143,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el nombre del famoso jugador de ajedrez ruso que fue campeón mundial durante más de una década?",
+    "options": [
+      "Mijaíl Tal",
+      "Anatoli Kárpov",
+      "Garry Kasparov",
+      "Vladímir Kramnik"
+    ],
+    "correctOption": "Garry Kasparov",
+    "hints": [
+      "Kasparov es uno de los jugadores de ajedrez más influyentes en la historia del juego.",
+      "Su rivalidad con Anatoli Kárpov y su activismo político lo convirtieron en una figura destacada fuera del tablero."
+    ]
+  },
+  {
+    "id": 144,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el nadador más condecorado en la historia de los Juegos Olímpicos?",
+    "options": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Usain Bolt",
+      "Ian Thorpe"
+    ],
+    "correctOption": "Michael Phelps",
+    "hints": [
+      "Phelps es conocido como 'El Tiburón de Baltimore' y ha ganado un total de 23 medallas de oro olímpicas.",
+      "Su impresionante carrera en la natación le ha valido un lugar destacado en la historia del deporte."
+    ]
+  },
+  {
+    "id": 145,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Qué atleta olímpico logró ganar medallas de oro en el salto de longitud y el decatlón en los mismos Juegos Olímpicos?",
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Bob Beamon",
+      "Ashton Eaton"
+    ],
+    "correctOption": "Bob Beamon",
+    "hints": [
+      "Beamon logró esta hazaña en los Juegos Olímpicos de 1968 en la Ciudad de México.",
+      "Su salto récord en el salto de longitud, conocido como el 'Salto del Siglo', es una de las actuaciones más memorables en la historia olímpica."
+    ]
+  },
+  {
+    "id": 146,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es la duración total de un partido de fútbol americano de la NFL?",
+    "options": [
+      "60 minutos",
+      "90 minutos",
+      "45 minutos",
+      "120 minutos"
+    ],
+    "correctOption": "60 minutos",
+    "hints": [
+      "Un partido de fútbol americano de la NFL se juega en cuatro cuartos de 15 minutos cada uno.",
+      "El tiempo de juego real es relativamente menor debido a pausas, tiempos muertos y cambios de posesión."
+    ]
+  },
+  {
+    "id": 147,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el récord mundial en la maratón masculina?",
+    "options": [
+      "2 horas, 1 minuto y 39 segundos",
+      "2 horas, 2 minutos y 57 segundos",
+      "2 horas, 3 minutos y 13 segundos",
+      "2 horas, 4 minutos y 16 segundos"
+    ],
+    "correctOption": "2 horas, 1 minuto y 39 segundos",
+    "hints": [
+      "Este récord fue establecido por Eliud Kipchoge de Kenia en el Maratón de Berlín de 2018.",
+      "Kipchoge es ampliamente considerado uno de los mejores corredores de maratón de todos los tiempos."
+    ]
+  },
+  {
+    "id": 148,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el equipo de béisbol con más títulos de las Grandes Ligas de Estados Unidos (MLB)?",
+    "options": [
+      "New York Yankees",
+      "Boston Red Sox",
+      "Los Angeles Dodgers",
+      "Chicago Cubs"
+    ],
+    "correctOption": "New York Yankees",
+    "hints": [
+      "Los Yankees son conocidos por su rica historia y éxito en las Grandes Ligas.",
+      "Han ganado un total de 27 títulos de la Serie Mundial, más que cualquier otro equipo."
+    ]
+  },
+  {
+    "id": 149,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el país que ha ganado más títulos en la Copa Mundial de Fútbol?",
+    "options": [
+      "Brasil",
+      "Alemania",
+      "Italia",
+      "Argentina"
+    ],
+    "correctOption": "Brasil",
+    "hints": [
+      "Brasil es una potencia en el fútbol y ha ganado un total de 5 Copas Mundiales.",
+      "Su éxito en el torneo lo convierte en uno de los equipos más exitosos en la historia de la competencia."
+    ]
+  },
+  {
+    "id": 150,
+    "genre": "Deportes",
+    "difficulty": "experto",
+    "question": "¿Cuál es el golfista con más títulos de torneos Major (Grand Slam) en la historia?",
+    "options": [
+      "Tiger Woods",
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Gary Player"
+    ],
+    "correctOption": "Jack Nicklaus",
+    "hints": [
+      "Nicklaus ha ganado un total de 18 títulos de torneos Major a lo largo de su carrera.",
+      "Es ampliamente considerado uno de los mejores golfistas de todos los tiempos y ha establecido récords que perduran hasta el día de hoy."
+    ]
+  }
+]

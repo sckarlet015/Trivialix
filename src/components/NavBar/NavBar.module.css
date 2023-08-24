@@ -1,0 +1,54 @@
+.NavBar{
+    background-color: #2274a5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* width: full; */
+    height: 60px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    /* animation: 20.ms; */
+    animation-duration: 20ms;
+}
+.link{
+    text-decoration: none;
+    background-color: #f75c03;
+    border: 3px solid rgb(68, 65, 65) ;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: -3px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    transition: 0.2s;
+}
+.link .tex{
+    color: #F4CB83;
+    font-size: 15px;
+    margin: auto;
+    transition: 0.2s;
+}
+.link:hover{
+    background-color: #E64C4C;
+    border: 3px solid rgb(68, 65, 65) ;
+    border-radius: 5px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    height: 60px;
+    width: 130px;
+}
+.link .tex:hover{
+    color: #FFCB05;
+    font-size: 20px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    color: var(--font);
+}

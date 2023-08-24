@@ -1,0 +1,99 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: #f3c677; */
+}
+.title{
+    font-family: font;
+    font-size: 50px;
+    margin-block: auto;
+    margin-right: 5px;
+    width: 1000px;
+    color: var(--font);
+}
+.titleDif{
+    margin-block: auto;
+    margin-right: 5px;
+    color: #F9564F;
+}
+.nameCarousel{
+    margin-block: auto; 
+    color: #F9564F;
+}
+.carousel{
+    width: 400px;
+    text-align: -webkit-center;
+}
+.contImg{
+    margin-block: auto;
+    width: 100%;
+    height: 250px;
+}
+.difficuty{
+    margin-block: auto;
+    height: 40px;
+    display: inline-flex;
+}
+ul{
+    margin-block: auto; 
+}
+.image{
+    width: 100%;
+    height: 100%;
+    margin-block: auto; 
+}
+.item{
+    margin-block: auto;  
+}
+.itemhover{
+    cursor: pointer;
+}
+.select{
+    width: 90px;
+   height: 40px;
+   border-radius: 10px;
+   color: var(--font);
+   background-color: var(--btn);
+}
+.select:hover{
+    cursor: pointer;
+}
+.btn{
+   margin: 5px;
+   width: 90px;
+   height: 40px;
+   border-radius: 10px;
+   color: var(--font);
+   background-color: var(--btn);
+   transition-duration: 200ms;
+}
+
+.btn:hover{
+    width: 110px;
+    height: 50px;
+    font-size: 18px; 
+    transition-duration: 200ms;
+    overflow: hidden;
+    cursor: pointer;
+}
+.play{
+    margin-block: auto;
+    margin-top: 5px;
+    width: 150px;
+    height: 50px;
+    font-size: 35px;  
+    border-radius: 10px;
+    font-family: font;
+    color: var(--font);
+    background-color: var(--btnTwo);
+    transition-duration: 200ms;
+}
+.play:hover{
+    width: 200px;
+    height: 55px;
+    font-size: 38px; 
+    transition-duration: 200ms;
+    cursor: pointer;
+}

@@ -1,0 +1,852 @@
+[
+  {
+    "id": 51,
+    "question": "¿Cuál es el elemento químico más abundante en el universo?",
+    "options": [
+      "Oxígeno",
+      "Hidrógeno",
+      "Carbono",
+      "Nitrógeno"
+    ],
+    "correctOption": "Hidrógeno",
+    "hints": [
+      "Es el primer elemento en la tabla periódica.",
+      "Es el principal componente de las estrellas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 52,
+    "question": "¿Cuál es la partícula subatómica con carga positiva en el núcleo de un átomo?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Positrón"
+    ],
+    "correctOption": "Protón",
+    "hints": [
+      "Contribuye a la carga positiva del núcleo.",
+      "Es igual en número al número atómico del elemento."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 53,
+    "question": "¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Transpiración",
+      "Metabolismo"
+    ],
+    "correctOption": "Fotosíntesis",
+    "hints": [
+      "Las hojas contienen clorofila para realizar este proceso.",
+      "Oxígeno es liberado como subproducto."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 54,
+    "question": "¿Cuál es el nombre del proceso en el que una célula se divide en dos células hijas idénticas?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fotosíntesis",
+      "Diferenciación"
+    ],
+    "correctOption": "Mitosis",
+    "hints": [
+      "Es fundamental para el crecimiento y la reparación de tejidos.",
+      "Ocurre en células somáticas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es la capa externa de la Tierra donde vivimos?",
+    "options": [
+      "Núcleo",
+      "Manto",
+      "Corteza",
+      "Núcleo externo"
+    ],
+    "correctOption": "Corteza",
+    "hints": [
+      "Es delgada en comparación con el resto de la Tierra.",
+      "Incluye la corteza continental y la corteza oceánica."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 56,
+    "question": "¿Cuál es la lente del ojo humano que ayuda a enfocar la luz en la retina?",
+    "options": [
+      "Cristalino",
+      "Córnea",
+      "Pupila",
+      "Esclerótica"
+    ],
+    "correctOption": "Cristalino",
+    "hints": [
+      "Permite el ajuste del enfoque para objetos cercanos y lejanos.",
+      "Se vuelve menos flexible con la edad, causando la presbicia."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 57,
+    "question": "¿Cuál es el proceso por el cual las plantas liberan vapor de agua a la atmósfera?",
+    "options": [
+      "Fotosíntesis",
+      "Transpiración",
+      "Respiración",
+      "Evaporación"
+    ],
+    "correctOption": "Transpiración",
+    "hints": [
+      "Ayuda en la regulación de la temperatura y el transporte de nutrientes.",
+      "Se realiza a través de pequeños orificios en las hojas llamados estomas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 58,
+    "question": "¿Cuál es la fuerza que atrae a los objetos hacia el centro de la Tierra?",
+    "options": [
+      "Fuerza de fricción",
+      "Fuerza centrífuga",
+      "Fuerza electromagnética",
+      "Gravedad"
+    ],
+    "correctOption": "Gravedad",
+    "hints": [
+      "Es responsable del peso de los objetos en la superficie terrestre.",
+      "Su intensidad depende de la masa de los objetos y la distancia entre ellos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 59,
+    "question": "¿Cuál es el proceso químico mediante el cual las plantas y los animales obtienen energía de los alimentos?",
+    "options": [
+      "Fotosíntesis",
+      "Digestión",
+      "Respiración",
+      "Metabolismo"
+    ],
+    "correctOption": "Respiración",
+    "hints": [
+      "Ocurre en las células y produce ATP.",
+      "Involucra la oxidación de moléculas orgánicas para liberar energía."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál es el proceso natural por el cual la Tierra mantiene su temperatura adecuada?",
+    "options": [
+      "Efecto invernadero",
+      "Fotólisis",
+      "Oscilación térmica",
+      "Fotodisociación"
+    ],
+    "correctOption": "Efecto invernadero",
+    "hints": [
+      "Gases como el dióxido de carbono y el vapor de agua atrapan el calor.",
+      "Es esencial para la vida tal como la conocemos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál es la unidad básica de la vida?",
+    "options": [
+      "Célula",
+      "Átomo",
+      "Proteína",
+      "Molécula"
+    ],
+    "correctOption": "Célula",
+    "hints": [
+      "Es la unidad estructural y funcional de los organismos vivos.",
+      "Existen células procariotas y eucariotas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál es el proceso por el cual los organismos vivos cambian y se adaptan con el tiempo?",
+    "options": [
+      "Evolución",
+      "Metamorfosis",
+      "Reproducción",
+      "Desarrollo"
+    ],
+    "correctOption": "Evolución",
+    "hints": [
+      "Fue propuesto por Charles Darwin.",
+      "Se basa en la selección natural y la supervivencia de los más aptos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál es el tipo de energía almacenada en los alimentos que los seres vivos utilizan?",
+    "options": [
+      "Energía solar",
+      "Energía cinética",
+      "Energía eólica",
+      "Energía química"
+    ],
+    "correctOption": "Energía química",
+    "hints": [
+      "Se libera mediante la respiración y el metabolismo.",
+      "Permite que los organismos realicen funciones vitales."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál es el proceso mediante el cual una especie de ser vivo desaparece completamente?",
+    "options": [
+      "Adaptación",
+      "Extinción",
+      "Mutación",
+      "Diversificación"
+    ],
+    "correctOption": "Extinción",
+    "hints": [
+      "Puede ser causada por cambios en el ambiente o competencia con otras especies.",
+      "Es un fenómeno natural, pero también puede ser acelerado por actividades humanas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 65,
+    "question": "¿Cuál es el proceso de conversión de un líquido en vapor a una temperatura por debajo de su punto de ebullición?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Sublimación",
+      "Fusión"
+    ],
+    "correctOption": "Evaporación",
+    "hints": [
+      "Ocurre en la superficie de un líquido.",
+      "Es una forma común de ciclo del agua en la naturaleza."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 66,
+    "question": "¿Cuál es el proceso mediante el cual las plantas convierten el dióxido de carbono y el agua en glucosa y oxígeno?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Transpiración",
+      "Metabolismo"
+    ],
+    "correctOption": "Fotosíntesis",
+    "hints": [
+      "Es esencial para la producción de alimento y oxígeno en la Tierra.",
+      "La energía luminosa se convierte en energía química."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 67,
+    "question": "¿Cuál es el nombre del proceso de división celular que resulta en la formación de células sexuales?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fotosíntesis",
+      "Replicación"
+    ],
+    "correctOption": "Meiosis",
+    "hints": [
+      "El número de cromosomas se reduce a la mitad en las células hijas.",
+      "Es fundamental para la reproducción sexual."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 68,
+    "question": "¿Cuál es el término para la cantidad total de materia y energía en el universo, que no puede crearse ni destruirse, solo transformarse?",
+    "options": [
+      "Ley de la Conservación de la Energía",
+      "Ley de Newton",
+      "Ley de Boyle",
+      "Principio de Incertidumbre"
+    ],
+    "correctOption": "Ley de la Conservación de la Energía",
+    "hints": [
+      "Es una de las leyes fundamentales de la física.",
+      "Propuesta por Antoine Lavoisier en el siglo XVIII."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 69,
+    "question": "¿Cuál es la partícula subatómica que tiene una carga eléctrica negativa?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Positrón"
+    ],
+    "correctOption": "Electrón",
+    "hints": [
+      "Gira alrededor del núcleo en órbitas energéticas.",
+      "Es fundamental para las propiedades químicas de los átomos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál es la teoría científica que explica el origen del universo a partir de una explosión primordial?",
+    "options": [
+      "Teoría de la Relatividad",
+      "Teoría de la Gravedad",
+      "Teoría del Big Bang",
+      "Teoría Cuántica"
+    ],
+    "correctOption": "Teoría del Big Bang",
+    "hints": [
+      "Sugiere que el universo se originó a partir de un estado extremadamente caliente y denso.",
+      "Es ampliamente aceptada por la comunidad científica."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 71,
+    "question": "¿Cuál es la partícula subatómica que se encuentra en el núcleo del átomo y no tiene carga eléctrica?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Positrón"
+    ],
+    "correctOption": "Neutrón",
+    "hints": [
+      "Contribuye a la masa del átomo sin afectar su carga eléctrica.",
+      "Es un componente esencial de los núcleos estables."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 72,
+    "question": "¿Cuál es la fuerza que mantiene a los planetas en órbita alrededor del Sol?",
+    "options": [
+      "Fuerza centrífuga",
+      "Fuerza electromagnética",
+      "Gravedad",
+      "Fuerza nuclear"
+    ],
+    "correctOption": "Gravedad",
+    "hints": [
+      "Fue formulada por Isaac Newton.",
+      "Es proporcional a la masa de los objetos e inversamente proporcional al cuadrado de la distancia entre ellos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál es el proceso de conversión de un gas en líquido mediante enfriamiento?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Sublimación",
+      "Solidificación"
+    ],
+    "correctOption": "Condensación",
+    "hints": [
+      "Es lo que sucede cuando el vapor de agua se convierte en gotas líquidas.",
+      "Este proceso es clave en la formación de nubes y precipitación."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 74,
+    "question": "¿Cuál es el proceso mediante el cual los organismos vivos obtienen oxígeno del ambiente y liberan dióxido de carbono?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Transpiración",
+      "Metabolismo"
+    ],
+    "correctOption": "Respiración",
+    "hints": [
+      "Es esencial para la obtención de energía.",
+      "Involucra el intercambio de gases en los pulmones."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 75,
+    "question": "¿Cuál es el proceso de cambio de estado directamente de sólido a gas sin pasar por el estado líquido?",
+    "options": [
+      "Evaporación",
+      "Sublimación",
+      "Fusión",
+      "Condensación"
+    ],
+    "correctOption": "Sublimación",
+    "hints": [
+      "Ejemplos incluyen el hielo seco y la formación de escarcha.",
+      "Es un proceso endotérmico."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 76,
+    "question": "¿Cuál es el nombre del proceso en el que una célula se duplica a sí misma para formar dos células idénticas?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fotosíntesis",
+      "Diferenciación"
+    ],
+    "correctOption": "Mitosis",
+    "hints": [
+      "Es esencial para el crecimiento y la reparación de tejidos.",
+      "Resulta en dos células hijas genéticamente idénticas."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 77,
+    "question": "¿Cuál es la capa atmosférica que contiene la capa de ozono y protege a la Tierra de la radiación ultravioleta?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "correctOption": "Estratosfera",
+    "hints": [
+      "La capa de ozono está compuesta por moléculas de ozono.",
+      "Esta capa es crucial para la vida en la Tierra."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 78,
+    "question": "¿Cuál es el proceso mediante el cual una especie se adapta gradualmente a su entorno a lo largo de generaciones?",
+    "options": [
+      "Evolución",
+      "Metamorfosis",
+      "Reproducción",
+      "Desarrollo"
+    ],
+    "correctOption": "Evolución",
+    "hints": [
+      "Resulta de la selección natural y la variabilidad genética.",
+      "Fue formulada por Charles Darwin en su teoría de la evolución."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 79,
+    "question": "¿Cuál es la partícula subatómica que tiene la misma masa que un protón pero no tiene carga eléctrica?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Positrón"
+    ],
+    "correctOption": "Neutrón",
+    "hints": [
+      "Es difícil de detectar debido a su falta de carga y su masa.",
+      "Juega un papel importante en la estabilidad de los núcleos atómicos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 80,
+    "question": "¿Cuál es la teoría científica que describe el movimiento de los planetas alrededor del Sol?",
+    "options": [
+      "Teoría de la Relatividad",
+      "Teoría de la Gravedad",
+      "Teoría Heliocéntrica",
+      "Teoría Cuántica"
+    ],
+    "correctOption": "Teoría Heliocéntrica",
+    "hints": [
+      "Fue propuesta por Nicolás Copérnico en el siglo XVI.",
+      "Reemplazó la teoría geocéntrica que colocaba a la Tierra en el centro del universo."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 81,
+    "question": "¿Cuál es el componente químico fundamental de los ácidos nucleicos, como el ADN y el ARN?",
+    "options": [
+      "Aminoácido",
+      "Nucleótido",
+      "Monosacárido",
+      "Lípido"
+    ],
+    "correctOption": "Nucleótido",
+    "hints": [
+      "Consiste en un azúcar, un grupo fosfato y una base nitrogenada.",
+      "Es la base de la información genética en los seres vivos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 82,
+    "question": "¿Cuál es el proceso de conversión de la energía luminosa en energía química en las plantas?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Transpiración",
+      "Metabolismo"
+    ],
+    "correctOption": "Fotosíntesis",
+    "hints": [
+      "Se lleva a cabo en los cloroplastos de las células vegetales.",
+      "Las plantas utilizan la energía solar para producir glucosa."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 83,
+    "question": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional de Unidades (SI)?",
+    "options": [
+      "Vatio",
+      "Newton",
+      "Joule",
+      "Metro"
+    ],
+    "correctOption": "Newton",
+    "hints": [
+      "Es la cantidad de fuerza necesaria para acelerar una masa de 1 kilogramo a razón de 1 metro por segundo cuadrado.",
+      "Fue nombrada en honor a Isaac Newton."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 84,
+    "question": "¿Cuál es el proceso mediante el cual los organismos adquieren y utilizan alimentos para el crecimiento y el mantenimiento?",
+    "options": [
+      "Fotosíntesis",
+      "Respiración",
+      "Nutrición",
+      "Metabolismo"
+    ],
+    "correctOption": "Nutrición",
+    "hints": [
+      "Involucra la ingesta, digestión, absorción y metabolismo de nutrientes.",
+      "Proporciona la energía necesaria para todas las funciones corporales."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 85,
+    "question": "¿Cuál es el proceso mediante el cual los gases se mueven desde áreas de mayor concentración a áreas de menor concentración?",
+    "options": [
+      "Difusión",
+      "Osmosis",
+      "Evaporación",
+      "Sublimación"
+    ],
+    "correctOption": "Difusión",
+    "hints": [
+      "Es un proceso pasivo que ocurre en los fluidos y puede involucrar líquidos y gases.",
+      "Juega un papel importante en la respiración celular y el intercambio de gases en los pulmones."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 86,
+    "question": "¿Cuál es el nombre del proceso en el que una célula se divide para formar cuatro células hijas con la mitad del número de cromosomas?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fotosíntesis",
+      "Replicación"
+    ],
+    "correctOption": "Meiosis",
+    "hints": [
+      "Es fundamental para la reproducción sexual y la variabilidad genética.",
+      "Ocurre en las células sexuales o gametos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 87,
+    "question": "¿Cuál es el proceso de transformación de un líquido en vapor a su temperatura de ebullición?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Sublimación",
+      "Fusión"
+    ],
+    "correctOption": "Evaporación",
+    "hints": [
+      "Ocurre en la superficie del líquido.",
+      "No debe confundirse con la ebullición, que implica la formación de burbujas en todo el líquido."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 88,
+    "question": "¿Cuál es la unidad básica de los elementos químicos?",
+    "options": [
+      "Molécula",
+      "Átomo",
+      "Célula",
+      "Proteína"
+    ],
+    "correctOption": "Átomo",
+    "hints": [
+      "Consiste en un núcleo central de protones y neutrones, rodeado de electrones.",
+      "Los elementos químicos se componen de diferentes tipos de átomos."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 89,
+    "question": "¿Cuál es la propiedad de los objetos que se opone al cambio en su movimiento?",
+    "options": [
+      "Inercia",
+      "Gravedad",
+      "Energía",
+      "Resistencia"
+    ],
+    "correctOption": "Inercia",
+    "hints": [
+      "Es una de las leyes fundamentales del movimiento enunciada por Newton.",
+      "La masa es una medida de esta propiedad."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 90,
+    "question": "¿Cuál es el proceso mediante el cual las plantas liberan oxígeno a la atmósfera como subproducto de la fotosíntesis?",
+    "options": [
+      "Respiración",
+      "Transpiración",
+      "Fotosíntesis",
+      "Evaporación"
+    ],
+    "correctOption": "Fotosíntesis",
+    "hints": [
+      "El oxígeno es liberado como resultado de la división del agua.",
+      "Este proceso es esencial para el ciclo del oxígeno en la Tierra."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 91,
+    "question": "¿Cuál es el gas responsable del color y olor característico de los volcanes y aguas termales?",
+    "options": [
+      "Dióxido de carbono",
+      "Metano",
+      "Dióxido de azufre",
+      "Ácido sulfhídrico"
+    ],
+    "correctOption": "Ácido sulfhídrico",
+    "hints": [
+      "Tiene un olor similar a huevos podridos.",
+      "Es tóxico y puede ser peligroso en altas concentraciones."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál es la rama de la biología que se encarga del estudio de los animales?",
+    "options": [
+      "Botánica",
+      "Zoología",
+      "Ecología",
+      "Genética"
+    ],
+    "correctOption": "Zoología",
+    "hints": [
+      "Se centra en la anatomía, fisiología, clasificación y comportamiento de los animales.",
+      "Carl Linnaeus es considerado uno de los padres de la zoología moderna."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 93,
+    "question": "¿Cuál es el proceso mediante el cual una célula copia su ADN antes de dividirse?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fotosíntesis",
+      "Replicación"
+    ],
+    "correctOption": "Replicación",
+    "hints": [
+      "Es un paso fundamental en la división celular.",
+      "Resulta en dos copias idénticas del ADN, cada una en una nueva célula hija."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 94,
+    "question": "¿Cuál es el proceso de producción de energía en el núcleo del Sol mediante la fusión nuclear?",
+    "options": [
+      "Fotosíntesis",
+      "Fisión nuclear",
+      "Fusión nuclear",
+      "Reacción química"
+    ],
+    "correctOption": "Fusión nuclear",
+    "hints": [
+      "Dos núcleos ligeros se combinan para formar uno más pesado, liberando una gran cantidad de energía.",
+      "Es responsable de la emisión de luz y calor del Sol."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 95,
+    "question": "¿Cuál es el gas más abundante en la atmósfera de la Tierra?",
+    "options": [
+      "Dióxido de carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Argón"
+    ],
+    "correctOption": "Nitrógeno",
+    "hints": [
+      "Constituye aproximadamente el 78% de la atmósfera terrestre.",
+      "Es esencial para el ciclo del nitrógeno y la vida en la Tierra."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 96,
+    "question": "¿Cuál es el proceso de conversión de un gas en líquido mediante enfriamiento y compresión?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Sublimación",
+      "Fusión"
+    ],
+    "correctOption": "Condensación",
+    "hints": [
+      "Es lo que sucede cuando el vapor de agua se convierte en líquido.",
+      "Es común en la formación de nubes y en la industria de la refrigeración."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 97,
+    "question": "¿Cuál es el proceso mediante el cual los organismos cambian física y comportamentalmente para sobrevivir en su entorno?",
+    "options": [
+      "Evolución",
+      "Metamorfosis",
+      "Adaptación",
+      "Desarrollo"
+    ],
+    "correctOption": "Adaptación",
+    "hints": [
+      "Puede ser resultado de la selección natural y la variabilidad genética.",
+      "Los organismos se ajustan a las demandas cambiantes de su hábitat."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 98,
+    "question": "¿Cuál es el proceso de conversión de un sólido directamente en gas sin pasar por el estado líquido?",
+    "options": [
+      "Evaporación",
+      "Sublimación",
+      "Fusión",
+      "Condensación"
+    ],
+    "correctOption": "Sublimación",
+    "hints": [
+      "Ejemplos incluyen el hielo seco y el alcanfor.",
+      "Es un proceso endotérmico."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "medio"
+  },
+  {
+    "id": 99,
+    "question": "¿Cuál es el proceso de conversión de un sólido en líquido mediante el aumento de temperatura?",
+    "options": [
+      "Evaporación",
+      "Condensación",
+      "Fusión",
+      "Solidificación"
+    ],
+    "correctOption": "Fusión",
+    "hints": [
+      "Es lo que sucede cuando un material se derrite.",
+      "La temperatura a la cual ocurre es el punto de fusión."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 100,
+    "question": "¿Cuál es el proceso de transformación de un líquido en sólido mediante la pérdida de calor?",
+    "options": [
+      "Evaporación",
+      "Sublimación",
+      "Fusión",
+      "Solidificación"
+    ],
+    "correctOption": "Solidificación",
+    "hints": [
+      "Es lo que sucede cuando un líquido se congela o solidifica.",
+      "La temperatura a la cual ocurre es el punto de congelación."
+    ],
+    "genre": "Ciencia",
+    "difficulty": "facil"
+  }
+]

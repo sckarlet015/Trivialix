@@ -1,0 +1,852 @@
+[
+    {
+        "id": 1,
+        "question": "¿En qué año comenzó la Revolución Francesa?",
+        "options": [
+            "1776",
+            "1789",
+            "1812",
+            "1830"
+        ],
+        "correctOption": "1789",
+        "hints": [
+            "Fue un período de agitación política y social en Francia.",
+            "La toma de la Bastilla marcó el inicio de la Revolución."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 2,
+        "question": "¿Quién fue el líder de la Revolución Bolchevique en Rusia?",
+        "options": [
+            "Vladimir Putin",
+            "Joseph Stalin",
+            "Vladimir Lenin",
+            "Mikhail Gorbachev"
+        ],
+        "correctOption": "Vladimir Lenin",
+        "hints": [
+            "Lideró el derrocamiento del gobierno provisional y estableció un régimen comunista.",
+            "Fue el primer líder de la Unión Soviética."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 3,
+        "question": "¿Cuál fue la famosa batalla que tuvo lugar en el año 1066 y resultó en la conquista normanda de Inglaterra?",
+        "options": [
+            "Batalla de Waterloo",
+            "Batalla de Agincourt",
+            "Batalla de Hastings",
+            "Batalla de Bannockburn"
+        ],
+        "correctOption": "Batalla de Hastings",
+        "hints": [
+            "Esta batalla fue un punto crucial en la historia inglesa y tuvo un profundo impacto en la nobleza y el idioma.",
+            "Guillermo el Conquistador lideró a los normandos, mientras que Harold II lideró a los ingleses."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 4,
+        "question": "¿Cuál fue el primer presidente de los Estados Unidos?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "Benjamin Franklin"
+        ],
+        "correctOption": "George Washington",
+        "hints": [
+            "Fue un líder militar durante la Guerra de Independencia de los Estados Unidos.",
+            "Es conocido como el 'Padre de su País'."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 5,
+        "question": "¿Qué famosa exploradora ayudó a abrir el camino hacia la India por mar?",
+        "options": [
+            "Christopher Columbus",
+            "Marco Polo",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+        ],
+        "correctOption": "Vasco da Gama",
+        "hints": [
+            "Fue el primer europeo en llegar a la India por mar.",
+            "Su viaje estableció una ruta comercial directa con Asia."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 6,
+        "question": "¿En qué año comenzó la Revolución Rusa?",
+        "options": [
+            "1905",
+            "1917",
+            "1923",
+            "1930"
+        ],
+        "correctOption": "1917",
+        "hints": [
+            "Lideró al derrocamiento del gobierno zarista y al establecimiento del régimen comunista.",
+            "El líder bolchevique Vladimir Lenin tuvo un papel clave en este evento."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 7,
+        "question": "¿Qué líder político sudafricano luchó contra el apartheid y se convirtió en el primer presidente negro de su país?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "F. W. de Klerk",
+            "Thabo Mbeki"
+        ],
+        "correctOption": "Nelson Mandela",
+        "hints": [
+            "Pasó 27 años en prisión por su lucha contra el apartheid.",
+            "Fue galardonado con el Premio Nobel de la Paz en 1993."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 8,
+        "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "options": [
+            "1765",
+            "1776",
+            "1783",
+            "1790"
+        ],
+        "correctOption": "1776",
+        "hints": [
+            "Este evento marcó el inicio de la lucha de las colonias americanas por la independencia de Gran Bretaña.",
+            "Thomas Jefferson fue uno de los principales redactores de la Declaración."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 9,
+        "question": "¿Cuál fue el emperador romano conocido por su persecución a los cristianos?",
+        "options": [
+            "Julio César",
+            "Augusto",
+            "Nerón",
+            "Trajano"
+        ],
+        "correctOption": "Nerón",
+        "hints": [
+            "Es famoso por haber incendiado Roma y culpar a los cristianos.",
+            "Su reinado marcó un período de inestabilidad en el Imperio Romano."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 10,
+        "question": "¿En qué año se llevó a cabo la Revolución Industrial en Inglaterra?",
+        "options": [
+            "1701",
+            "1750",
+            "1800",
+            "1850"
+        ],
+        "correctOption": "1750",
+        "hints": [
+            "Marcó un período de cambios significativos en la producción, la industria y la tecnología.",
+            "Fue un punto de inflexión en la historia económica y social."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 11,
+        "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+        "options": [
+            "1945",
+            "1939",
+            "1942",
+            "1948"
+        ],
+        "correctOption": "1945",
+        "hints": [
+            "Este año marcó el fin del conflicto a nivel mundial.",
+            "La rendición de Alemania ocurrió en mayo de este año."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 12,
+        "question": "¿Qué famosa reina de Egipto formó una alianza con Marco Antonio?",
+        "options": [
+            "Cleopatra",
+            "Nefertiti",
+            "Hatshepsut",
+            "Isis"
+        ],
+        "correctOption": "Cleopatra",
+        "hints": [
+            "Es conocida por su relación con dos líderes romanos famosos.",
+            "Su muerte se atribuye a la mordedura de una serpiente."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 13,
+        "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+        "options": [
+            "1776",
+            "1789",
+            "1792",
+            "1765"
+        ],
+        "correctOption": "1776",
+        "hints": [
+            "Este año es conocido como el 'Año de la Independencia'.",
+            "La Declaración fue adoptada el 4 de julio."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 14,
+        "question": "¿Qué líder de los derechos civiles pronunció el famoso discurso 'Tengo un sueño'?",
+        "options": [
+            "Malcolm X",
+            "Martin Luther King Jr.",
+            "Nelson Mandela",
+            "Mahatma Gandhi"
+        ],
+        "correctOption": "Martin Luther King Jr.",
+        "hints": [
+            "Fue un pastor baptista y activista.",
+            "Su discurso tuvo lugar en Washington D.C. en 1963."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 15,
+        "question": "¿En qué año se produjo la Revolución Rusa?",
+        "options": [
+            "1917",
+            "1905",
+            "1921",
+            "1914"
+        ],
+        "correctOption": "1917",
+        "hints": [
+            "Fue un evento clave en la historia moderna de Rusia.",
+            "Lideró al derrocamiento del zar y al establecimiento del gobierno comunista."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 16,
+        "question": "¿Cuál fue el nombre de la primera mujer astronauta en viajar al espacio?",
+        "options": [
+            "Valentina Tereshkova",
+            "Sally Ride",
+            "Mae Jemison",
+            "Anousheh Ansari"
+        ],
+        "correctOption": "Valentina Tereshkova",
+        "hints": [
+            "Era ciudadana de la Unión Soviética.",
+            "Realizó su histórico vuelo en 1963."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 17,
+        "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "options": [
+            "Tratado de Versalles",
+            "Tratado de Tordesillas",
+            "Tratado de París",
+            "Tratado de Londres"
+        ],
+        "correctOption": "Tratado de Versalles",
+        "hints": [
+            "Fue firmado después del armisticio de 1918.",
+            "Impuso fuertes condiciones a Alemania."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 18,
+        "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "options": [
+            "John Adams",
+            "George Washington",
+            "Thomas Jefferson",
+            "Benjamin Franklin"
+        ],
+        "correctOption": "George Washington",
+        "hints": [
+            "Es conocido como el 'Padre de la Nación'.",
+            "Lideró al país durante la Revolución Americana."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 19,
+        "question": "¿Cuál fue el período de expansión territorial en Estados Unidos en el siglo XIX?",
+        "options": [
+            "Era de la Ilustración",
+            "Era Progresista",
+            "Era del Romanticismo",
+            "Era de la Manifestación del Destino"
+        ],
+        "correctOption": "Era de la Manifestación del Destino",
+        "hints": [
+            "Se caracterizó por la creencia en la expansión hacia el oeste.",
+            "Resultó en la adquisición de nuevos territorios y conflictos con los nativos americanos."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 20,
+        "question": "¿Qué famosa batalla en 1066 cambió el curso de la historia de Inglaterra?",
+        "options": [
+            "Batalla de Hastings",
+            "Batalla de Waterloo",
+            "Batalla de Agincourt",
+            "Batalla de Bannockburn"
+        ],
+        "correctOption": "Batalla de Hastings",
+        "hints": [
+            "Fue una lucha por el trono inglés.",
+            "Guillermo el Conquistador prevaleció sobre Harold II."
+        ],
+        "genre": "Historia",
+        "difficulty": "dificil"
+    },
+    {
+        "id": 21,
+        "question": "¿Quién fue el líder revolucionario conocido como 'El Che'?",
+        "options": [
+            "Fidel Castro",
+            "Mao Zedong",
+            "Che Guevara",
+            "Nicolás Maduro"
+        ],
+        "correctOption": "Che Guevara",
+        "hints": [
+            "Participó en la Revolución Cubana.",
+            "Fue un médico y guerrillero argentino."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 22,
+        "question": "¿Cuál fue el imperio precolombino más grande en América?",
+        "options": [
+            "Imperio Inca",
+            "Imperio Azteca",
+            "Imperio Maya",
+            "Imperio Chibcha"
+        ],
+        "correctOption": "Imperio Inca",
+        "hints": [
+            "Se extendía a lo largo de la cordillera de los Andes.",
+            "Su capital era Cuzco."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 23,
+        "question": "¿Qué evento histórico marcó el inicio de la Revolución Industrial?",
+        "options": [
+            "La Revolución Francesa",
+            "La Guerra Civil Americana",
+            "La Primera Guerra Mundial",
+            "La Revolución Industrial"
+        ],
+        "correctOption": "La Revolución Industrial",
+        "hints": [
+            "Este evento transformó la producción y la economía.",
+            "Fue impulsado por avances tecnológicos y cambios en la manufactura."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 24,
+        "question": "¿Cuál fue el nombre del programa espacial que llevó al primer ser humano al espacio?",
+        "options": [
+            "Programa Gemini",
+            "Programa Apolo",
+            "Programa Soyuz",
+            "Programa Vostok"
+        ],
+        "correctOption": "Programa Vostok",
+        "hints": [
+            "Fue lanzado por la Unión Soviética.",
+            "Yuri Gagarin fue el primer cosmonauta en volar en esta nave espacial."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 25,
+        "question": "¿En qué año se firmó el Tratado de Maastricht, estableciendo la Unión Europea?",
+        "options": [
+            "1992",
+            "1989",
+            "2000",
+            "1999"
+        ],
+        "correctOption": "1992",
+        "hints": [
+            "Este tratado sentó las bases para la integración europea.",
+            "Fue un paso importante hacia la moneda única, el euro."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 26,
+        "question": "¿Quién fue el primer presidente de Sudáfrica después del apartheid?",
+        "options": [
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Thabo Mbeki",
+            "F.W. de Klerk"
+        ],
+        "correctOption": "Nelson Mandela",
+        "hints": [
+            "Pasó 27 años en prisión por su lucha contra el apartheid.",
+            "Se convirtió en un símbolo mundial de la lucha por la justicia y la igualdad."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 27,
+        "question": "¿Cuál fue el evento que marcó el comienzo de la Gran Depresión en la década de 1930?",
+        "options": [
+            "Caída de la Bolsa de Valores de Nueva York",
+            "Estallido de la Segunda Guerra Mundial",
+            "Descubrimiento de petróleo en Texas",
+            "Inicio del New Deal"
+        ],
+        "correctOption": "Caída de la Bolsa de Valores de Nueva York",
+        "hints": [
+            "Ocurrió en 1929.",
+            "Llevó a un colapso económico a nivel global."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 28,
+        "question": "¿Qué famoso líder pacifista lideró el movimiento de independencia de la India?",
+        "options": [
+            "Winston Churchill",
+            "Jawaharlal Nehru",
+            "Muhammad Ali Jinnah",
+            "Mahatma Gandhi"
+        ],
+        "correctOption": "Mahatma Gandhi",
+        "hints": [
+            "Utilizó la resistencia no violenta para luchar contra el colonialismo británico.",
+            "Su método de lucha se llamó 'Satyagraha'."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 29,
+        "question": "¿En qué año se cayó el Muro de Berlín, poniendo fin a la Guerra Fría en Europa?",
+        "options": [
+            "1989",
+            "1991",
+            "1985",
+            "1993"
+        ],
+        "correctOption": "1989",
+        "hints": [
+            "Este evento simbolizó la caída del telón de acero.",
+            "Marcó el colapso del comunismo en Europa del Este."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 30,
+        "question": "¿Qué famosa expedición llevó a Cristóbal Colón al continente americano por primera vez?",
+        "options": [
+            "Expedición de los Cien",
+            "Expedición de los Mil",
+            "Primer Viaje de Colón",
+            "Expedición del Mayflower"
+        ],
+        "correctOption": "Primer Viaje de Colón",
+        "hints": [
+            "Ocurrió en 1492.",
+            "Colón llegó a una isla en el Caribe que llamó 'San Salvador'."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 31,
+        "question": "¿Cuál fue la causa principal de la Revolución Industrial?",
+        "options": [
+            "Avances en la medicina",
+            "Descubrimiento de electricidad",
+            "Cambios en la agricultura",
+            "Desarrollo de la máquina de vapor"
+        ],
+        "correctOption": "Desarrollo de la máquina de vapor",
+        "hints": [
+            "Este invento permitió la automatización de la producción.",
+            "Fue un punto de inflexión en la historia económica."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 32,
+        "question": "¿Cuál fue la primera dinastía china que unificó gran parte del país?",
+        "options": [
+            "Dinastía Han",
+            "Dinastía Ming",
+            "Dinastía Tang",
+            "Dinastía Qin"
+        ],
+        "correctOption": "Dinastía Qin",
+        "hints": [
+            "Esta dinastía es conocida por la construcción de la Gran Muralla China.",
+            "Su líder más famoso fue Qin Shi Huang."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 33,
+        "question": "¿En qué año ocurrió el famoso 'Día D' durante la Segunda Guerra Mundial?",
+        "options": [
+            "1941",
+            "1942",
+            "1944",
+            "1945"
+        ],
+        "correctOption": "1944",
+        "hints": [
+            "Este evento marcó el inicio de la liberación de Europa occidental.",
+            "Fue una operación militar a gran escala liderada por los Aliados."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 34,
+        "question": "¿Quién fue el emperador romano conocido por su persecución a los cristianos?",
+        "options": [
+            "Augusto",
+            "Nerón",
+            "Trajano",
+            "Marco Aurelio"
+        ],
+        "correctOption": "Nerón",
+        "hints": [
+            "Gobernó durante el incendio de Roma en el año 64 d.C.",
+            "Es recordado por su crueldad y extravagancia."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 35,
+        "question": "¿Cuál fue el evento que marcó el comienzo de la Primera Guerra Mundial?",
+        "options": [
+            "Ataque a Pearl Harbor",
+            "Caída del Muro de Berlín",
+            "Asesinato de Franz Ferdinand",
+            "Firma del Tratado de Versalles"
+        ],
+        "correctOption": "Asesinato de Franz Ferdinand",
+        "hints": [
+            "Ocurrió en 1914 en Sarajevo.",
+            "Fue el desencadenante de una serie de eventos que llevaron al conflicto global."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 36,
+        "question": "¿Cuál fue la civilización que construyó las pirámides de Giza en Egipto?",
+        "options": [
+            "Babilonia",
+            "Mesopotamia",
+            "Mayas",
+            "Antiguo Egipto"
+        ],
+        "correctOption": "Antiguo Egipto",
+        "hints": [
+            "Estas estructuras monumentales sirvieron como tumbas para los faraones.",
+            "La Gran Pirámide es la más grande y famosa."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 37,
+        "question": "¿Qué evento marcó el final de la Guerra Fría en 1991?",
+        "options": [
+            "Caída del Muro de Berlín",
+            "Disolución de la Unión Soviética",
+            "Ataque a las Torres Gemelas",
+            "Revolución Cubana"
+        ],
+        "correctOption": "Disolución de la Unión Soviética",
+        "hints": [
+            "La Unión Soviética colapsó como entidad política.",
+            "Esto tuvo un impacto significativo en el equilibrio mundial de poder."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 38,
+        "question": "¿Cuál fue el conflicto bélico que involucró a Estados Unidos y la Unión Soviética, pero no llegó a una guerra directa?",
+        "options": [
+            "Guerra de Corea",
+            "Guerra de Vietnam",
+            "Guerra del Golfo",
+            "Guerra Fría"
+        ],
+        "correctOption": "Guerra Fría",
+        "hints": [
+            "Fue un período de tensión y rivalidad entre las superpotencias.",
+            "Incluyó competencia ideológica, armamentismo y carreras espaciales."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 39,
+        "question": "¿Qué evento marcó el comienzo de la Revolución Rusa en 1917?",
+        "options": [
+            "Ataque a Leningrado",
+            "Proclamación de la República",
+            "Ejecución de los Románov",
+            "Revolución de Febrero"
+        ],
+        "correctOption": "Revolución de Febrero",
+        "hints": [
+            "Este evento llevó a la abdicación del zar Nicolás II.",
+            "Fue seguido por la Revolución de Octubre que estableció el gobierno bolchevique."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 40,
+        "question": "¿Cuál fue el conflicto que involucró a los Estados Unidos y la Unión Soviética en una competencia por la supremacía en la exploración espacial?",
+        "options": [
+            "Guerra Fría",
+            "Carrera Espacial",
+            "Guerra de las Galaxias",
+            "Competencia Lunar"
+        ],
+        "correctOption": "Carrera Espacial",
+        "hints": [
+            "Incluyó logros como el primer satélite artificial y el primer ser humano en el espacio.",
+            "Culminó con el alunizaje del Apolo 11 en 1969."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 41,
+        "question": "¿Cuál fue el líder político y militar que condujo la independencia de México?",
+        "options": [
+            "Hernán Cortés",
+            "Miguel Hidalgo",
+            "Simón Bolívar",
+            "José Martí"
+        ],
+        "correctOption": "Miguel Hidalgo",
+        "hints": [
+            "Fue un sacerdote que encabezó el movimiento de independencia.",
+            "Grito de Dolores marcó el inicio del movimiento en 1810."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 42,
+        "question": "¿Qué imperio fue conocido como el 'Imperio del Sol'?",
+        "options": [
+            "Imperio Romano",
+            "Imperio Persa",
+            "Imperio Otomano",
+            "Imperio Inca"
+        ],
+        "correctOption": "Imperio Inca",
+        "hints": [
+            "Se ubicaba en América del Sur, en la región de los Andes.",
+            "Su capital era Cuzco y su imperio se extendía por varios países."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 43,
+        "question": "¿Quién fue el líder político y defensor de los derechos civiles de la India, conocido como el 'Líder de las masas'?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Indira Gandhi",
+            "Rajiv Gandhi",
+            "M.K. Gandhi"
+        ],
+        "correctOption": "M.K. Gandhi",
+        "hints": [
+            "Era conocido como Mahatma, que significa 'Gran Alma'.",
+            "Utilizó la resistencia no violenta para lograr cambios políticos y sociales."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 44,
+        "question": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+        "options": [
+            "1945",
+            "1919",
+            "1950",
+            "1938"
+        ],
+        "correctOption": "1945",
+        "hints": [
+            "Fue establecida al final de la Segunda Guerra Mundial.",
+            "Tiene como objetivo promover la cooperación internacional y la paz."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 45,
+        "question": "¿Qué explorador portugués fue el primero en circunnavegar la Tierra?",
+        "options": [
+            "Vasco da Gama",
+            "Fernando de Magallanes",
+            "Cristóbal Colón",
+            "Juan Ponce de León"
+        ],
+        "correctOption": "Fernando de Magallanes",
+        "hints": [
+            "Aunque Magallanes murió durante la expedición, su tripulación completó el viaje.",
+            "La expedición demostró que la Tierra es redonda."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 46,
+        "question": "¿Cuál de las siguientes civilizaciones es conocida por su escritura jeroglífica y construcción de pirámides?",
+        "options": [
+            "Antiguo Egipto",
+            "Antigua Roma",
+            "Antigua Grecia",
+            "Imperio Bizantino"
+        ],
+        "correctOption": "Antiguo Egipto",
+        "hints": [
+            "Desarrollaron una avanzada civilización a lo largo del río Nilo.",
+            "Faraones gobernaban esta civilización."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 47,
+        "question": "¿Cuál fue la famosa ruta comercial que conectó Europa con Asia en la Edad Media?",
+        "options": [
+            "Ruta de la Seda",
+            "Ruta del Oro",
+            "Ruta de las Especias",
+            "Ruta de los Descubrimientos"
+        ],
+        "correctOption": "Ruta de la Seda",
+        "hints": [
+            "Facilitó el intercambio de bienes y conocimientos entre dos continentes.",
+            "La seda china era uno de los productos más valiosos en esta ruta."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    },
+    {
+        "id": 48,
+        "question": "¿Quién fue el presidente de Estados Unidos durante la Guerra Civil Americana?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Abraham Lincoln",
+            "Andrew Jackson"
+        ],
+        "correctOption": "Abraham Lincoln",
+        "hints": [
+            "Emitió la Proclamación de Emancipación para liberar a los esclavos.",
+            "Su liderazgo fue crucial durante un período de división en el país."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 49,
+        "question": "¿En qué año se celebró el histórico discurso 'I Have a Dream' de Martin Luther King Jr.?",
+        "options": [
+            "1963",
+            "1968",
+            "1965",
+            "1971"
+        ],
+        "correctOption": "1963",
+        "hints": [
+            "Fue en el marco de la Marcha en Washington por el Trabajo y la Libertad.",
+            "El discurso abogó por la igualdad racial y los derechos civiles."
+        ],
+        "genre": "Historia",
+        "difficulty": "facil"
+    },
+    {
+        "id": 50,
+        "question": "¿Quién fue el líder militar y político que desempeñó un papel clave en la independencia de varios países de América del Sur?",
+        "options": [
+            "José Martí",
+            "Miguel Hidalgo",
+            "Simón Bolívar",
+            "Túpac Amaru"
+        ],
+        "correctOption": "Simón Bolívar",
+        "hints": [
+            "Es conocido como 'El Libertador'.",
+            "Contribuyó a la independencia de países como Venezuela, Colombia, Ecuador, Perú y Bolivia."
+        ],
+        "genre": "Historia",
+        "difficulty": "medio"
+    }
+]

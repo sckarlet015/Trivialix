@@ -1,0 +1,822 @@
+[
+    {
+        "id": 101,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Cuál es el metal químico con el símbolo 'Au'?",
+        "options": [
+            "Oro",
+            "Plata",
+            "Hierro",
+            "Cobre"
+        ],
+        "correctOption": "Oro",
+        "hint": "Este metal es valorado por su brillo y rareza."
+    },
+    {
+        "id": 102,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿En qué año tuvo lugar la Revolución Francesa?",
+        "options": [
+            "1789",
+            "1812",
+            "1848",
+            "1905"
+        ],
+        "correctOption": "1789",
+        "hint": "Este evento histórico marcó el fin de la monarquía absoluta en Francia."
+    },
+    {
+        "id": 103,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Qué famosa pintora mexicana es conocida por su obra 'Las dos Fridas'?",
+        "options": [
+            "Frida Kahlo",
+            "Diego Rivera",
+            "Leonora Carrington",
+            "Tamara de Lempicka"
+        ],
+        "correctOption": "Frida Kahlo",
+        "hint": "Esta artista plasmó su vida y emociones en sus autorretratos."
+    },
+    {
+        "id": 104,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "options": [
+            "Piel",
+            "Cerebro",
+            "Corazón",
+            "Hígado"
+        ],
+        "correctOption": "Piel",
+        "hint": "Es el tejido que recubre y protege el cuerpo."
+    },
+    {
+        "id": 105,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿En qué país se encuentra la Gran Muralla China?",
+        "options": [
+            "China",
+            "Japón",
+            "Corea del Sur",
+            "Vietnam"
+        ],
+        "correctOption": "China",
+        "hint": "Este país es conocido por su rica historia y cultura milenaria."
+    },
+    {
+        "id": 106,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Quién escribió la obra 'Don Quijote de la Mancha'?",
+        "options": [
+            "Miguel de Cervantes",
+            "Gabriel García Márquez",
+            "Pablo Neruda",
+            "Mario Vargas Llosa"
+        ],
+        "correctOption": "Miguel de Cervantes",
+        "hint": "Este autor español es considerado una de las figuras más importantes de la literatura universal."
+    },
+    {
+        "id": 107,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Cuál es el océano más pequeño del mundo?",
+        "options": [
+            "Océano Ártico",
+            "Océano Atlántico",
+            "Océano Índico",
+            "Océano Pacífico"
+        ],
+        "correctOption": "Océano Ártico",
+        "hint": "Este océano rodea el Polo Norte y está cubierto por hielo."
+    },
+    {
+        "id": 108,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Qué instrumento musical es conocido como el 'Rey de los instrumentos'?",
+        "options": [
+            "Órgano",
+            "Piano",
+            "Violín",
+            "Flauta"
+        ],
+        "correctOption": "Órgano",
+        "hint": "Este instrumento de teclado es famoso por su gran variedad de sonidos y su presencia en iglesias y catedrales."
+    },
+    {
+        "id": 109,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía?",
+        "options": [
+            "Fotosíntesis",
+            "Respiración",
+            "Fermentación",
+            "Digestión"
+        ],
+        "correctOption": "Fotosíntesis",
+        "hint": "Este proceso es esencial para la producción de oxígeno y la generación de energía en las plantas."
+    },
+    {
+        "id": 110,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+        "options": [
+            "1896",
+            "1900",
+            "1912",
+            "1924"
+        ],
+        "correctOption": "1896",
+        "hint": "Atenas, la capital de Grecia, fue la sede de este evento deportivo histórico."
+    },
+    {
+        "id": 111,
+        "genre": "Cultura General",
+        "difficulty": "Fácil",
+        "question": "¿Cuál es el metal químico con el símbolo 'Ag'?",
+        "options": [
+            "Plata",
+            "Oro",
+            "Aluminio",
+            "Cobre"
+        ],
+        "correctOption": "Plata",
+        "hints": [
+            "Este metal es conocido por su brillo plateado.",
+            "Se utiliza en joyería y monedas."
+        ]
+    },
+    {
+        "id": 112,
+        "genre": "Cultura General",
+        "difficulty": "Medio",
+        "question": "¿Qué famosa estatua de Nueva York representa la libertad?",
+        "options": [
+            "La Estatua de la Libertad",
+            "La Mona Lisa",
+            "El David",
+            "El Pensador"
+        ],
+        "correctOption": "La Estatua de la Libertad",
+        "hints": [
+            "Se encuentra en la entrada del puerto de Nueva York.",
+            "Un regalo de los franceses a los estadounidenses."
+        ]
+    },
+    {
+        "id": 113,
+        "genre": "Cultura General",
+        "difficulty": "Medio",
+        "question": "¿Cuál es el río más largo del mundo?",
+        "options": [
+            "El Nilo",
+            "El Amazonas",
+            "El Yangtsé",
+            "El Misisipi"
+        ],
+        "correctOption": "El Nilo",
+        "hints": [
+            "Fluye a través de varios países de África.",
+            "Es esencial para la vida en la región y ha influido en la historia y la cultura."
+        ]
+    },
+    {
+        "id": 114,
+        "genre": "Cultura General",
+        "difficulty": "Medio",
+        "question": "¿Qué famoso científico formuló la teoría de la relatividad?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Charles Darwin"
+        ],
+        "correctOption": "Albert Einstein",
+        "hints": [
+            "Es conocido por su ecuación 'E=mc^2'.",
+            "Desarrolló una nueva comprensión de la gravedad y el espacio-tiempo."
+        ]
+    },
+    {
+        "id": 115,
+        "genre": "Cultura General",
+        "difficulty": "Difícil",
+        "question": "¿Cuál es el país con la mayor población del mundo?",
+        "options": [
+            "China",
+            "India",
+            "Estados Unidos",
+            "Rusia"
+        ],
+        "correctOption": "China",
+        "hints": [
+            "Se encuentra en Asia.",
+            "Tiene más de mil millones de habitantes y una rica historia."
+        ]
+    },
+    {
+        "id": 116,
+        "genre": "Cultura General",
+        "difficulty": "Difícil",
+        "question": "¿Qué famoso inventor desarrolló la bombilla eléctrica?",
+        "options": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Galileo Galilei"
+        ],
+        "correctOption": "Thomas Edison",
+        "hints": [
+            "Fue un prolífico inventor y empresario estadounidense.",
+            "También influyó en áreas como las películas y las grabaciones de sonido."
+        ]
+    },
+    {
+        "id": 117,
+        "genre": "Cultura General",
+        "difficulty": "Difícil",
+        "question": "¿En qué ciudad se encuentra la famosa ópera de la Ópera Garnier?",
+        "options": [
+            "París",
+            "Viena",
+            "Milán",
+            "Nueva York"
+        ],
+        "correctOption": "París",
+        "hints": [
+            "Es la capital de Francia.",
+            "La Ópera Garnier es un icónico edificio del siglo XIX."
+        ]
+    },
+    {
+        "id": 118,
+        "genre": "Cultura General",
+        "difficulty": "Difícil",
+        "question": "¿Cuál es el monte más alto del mundo?",
+        "options": [
+            "Monte Everest",
+            "Monte Kilimanjaro",
+            "Monte McKinley",
+            "Monte Aconcagua"
+        ],
+        "correctOption": "Monte Everest",
+        "hints": [
+            "Es parte de la cordillera del Himalaya.",
+            "Alcanza una altitud de más de 8,000 metros sobre el nivel del mar."
+        ]
+    },
+    {
+        "id": 119,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el proceso natural de cambio de estado de un líquido a un gas?",
+        "options": [
+            "Ebullición",
+            "Condensación",
+            "Solidificación",
+            "Fusión"
+        ],
+        "correctOption": "Ebullición",
+        "hints": [
+            "Ocurre cuando se calienta un líquido.",
+            "El punto de ebullición varía según la sustancia y la presión."
+        ]
+    },
+    {
+        "id": 120,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Quién pintó la famosa obra 'La Noche Estrellada'?",
+        "options": [
+            "Vincent van Gogh",
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctOption": "Vincent van Gogh",
+        "hints": [
+            "Este pintor postimpresionista era conocido por su estilo único.",
+            "La pintura representa un cielo nocturno estrellado sobre un pueblo."
+        ]
+    },
+    {
+        "id": 121,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la capital de Japón?",
+        "options": [
+            "Tokio",
+            "Pekín",
+            "Seúl",
+            "Bangkok"
+        ],
+        "correctOption": "Tokio",
+        "hints": [
+            "Es una metrópolis moderna y bulliciosa.",
+            "Tiene una mezcla única de tradición y tecnología avanzada."
+        ]
+    },
+    {
+        "id": 122,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el proceso de conversión de una sustancia sólida directamente a un gas?",
+        "options": [
+            "Sublimación",
+            "Evaporación",
+            "Condensación",
+            "Fusión"
+        ],
+        "correctOption": "Sublimación",
+        "hints": [
+            "Ocurre sin pasar por el estado líquido intermedio.",
+            "El hielo seco es un ejemplo de una sustancia que sublima."
+        ]
+    },
+    {
+        "id": 123,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la moneda oficial de Brasil?",
+        "options": [
+            "Real",
+            "Peso",
+            "Dólar",
+            "Euro"
+        ],
+        "correctOption": "Real",
+        "hints": [
+            "Es la unidad monetaria de este país sudamericano.",
+            "El símbolo de esta moneda es 'R$'."
+        ]
+    },
+    {
+        "id": 124,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "options": [
+            "1914",
+            "1918",
+            "1939",
+            "1945"
+        ],
+        "correctOption": "1914",
+        "hints": [
+            "Fue un conflicto que involucró a muchas naciones.",
+            "Terminó en 1918 y fue un evento crucial en la historia mundial."
+        ]
+    },
+    {
+        "id": 125,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "options": [
+            "Miguel de Cervantes",
+            "Gabriel García Márquez",
+            "Jorge Luis Borges",
+            "Pablo Neruda"
+        ],
+        "correctOption": "Miguel de Cervantes",
+        "hints": [
+            "Es una obra maestra de la literatura española.",
+            "La historia sigue las aventuras de un caballero y su escudero."
+        ]
+    },
+    {
+        "id": 126,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Océano Pacífico",
+            "Océano Atlántico",
+            "Océano Índico",
+            "Océano Ártico"
+        ],
+        "correctOption": "Océano Pacífico",
+        "hints": [
+            "Cubre un área enorme y contiene muchas islas y archipiélagos.",
+            "Es conocido por su profundidad y diversidad de vida marina."
+        ]
+    },
+    {
+        "id": 127,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué país se encuentra la famosa Torre Eiffel?",
+        "options": [
+            "Francia",
+            "Italia",
+            "España",
+            "Reino Unido"
+        ],
+        "correctOption": "Francia",
+        "hints": [
+            "Es un símbolo icónico de este país europeo.",
+            "Se construyó como parte de la Exposición Universal de 1889."
+        ]
+    },
+    {
+        "id": 128,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el símbolo químico del oro?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Cu"
+        ],
+        "correctOption": "Au",
+        "hints": [
+            "Es un metal precioso de color amarillo brillante.",
+            "Ha sido valorado por su belleza y rareza a lo largo de la historia."
+        ]
+    },
+    {
+        "id": 129,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el río más largo de América del Norte?",
+        "options": [
+            "Río Misisipi",
+            "Río Amazonas",
+            "Río Colorado",
+            "Río Yukón"
+        ],
+        "correctOption": "Río Misisipi",
+        "hints": [
+            "Fluye a través de varios estados en los Estados Unidos.",
+            "Es conocido por su importancia histórica y cultural."
+        ]
+    },
+    {
+        "id": 130,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Qué famoso científico propuso la teoría de la relatividad?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "correctOption": "Albert Einstein",
+        "hints": [
+            "Su famosa ecuación es E=mc².",
+            "Su trabajo revolucionó nuestra comprensión del tiempo, el espacio y la gravedad."
+        ]
+    },
+    {
+        "id": 131,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "options": [
+            "Aluminio",
+            "Hierro",
+            "Cobre",
+            "Plomo"
+        ],
+        "correctOption": "Aluminio",
+        "hints": [
+            "Se utiliza ampliamente en la industria y la construcción.",
+            "Es conocido por su bajo peso y resistencia a la corrosión."
+        ]
+    },
+    {
+        "id": 132,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué año se llevó a cabo la Revolución Rusa?",
+        "options": [
+            "1917",
+            "1920",
+            "1905",
+            "1930"
+        ],
+        "correctOption": "1917",
+        "hints": [
+            "Fue un evento político que cambió el curso de la historia de Rusia.",
+            "Lideró al derrocamiento del gobierno zarista y la eventual formación de la Unión Soviética."
+        ]
+    },
+    {
+        "id": 133,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la capital de Australia?",
+        "options": [
+            "Sídney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correctOption": "Canberra",
+        "hints": [
+            "Es una ciudad planificada y sede del gobierno australiano.",
+            "A menudo se la llama la 'capital de Bush' debido a su ubicación en un entorno natural."
+        ]
+    },
+    {
+        "id": 134,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+        "options": [
+            "1776",
+            "1789",
+            "1792",
+            "1765"
+        ],
+        "correctOption": "1776",
+        "hints": [
+            "Este documento estableció la independencia de las Trece Colonias de Gran Bretaña.",
+            "Fue un paso crucial en la formación de los Estados Unidos como nación."
+        ]
+    },
+    {
+        "id": 135,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Qué famoso artista pintó 'La última cena'?",
+        "options": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Michelangelo"
+        ],
+        "correctOption": "Leonardo da Vinci",
+        "hints": [
+            "Es una obra maestra del Renacimiento italiano.",
+            "Fue pintada en la pared de un convento en Milán y representa la última cena de Jesús con sus discípulos."
+        ]
+    },
+    {
+        "id": 136,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+        "options": [
+            "Júpiter",
+            "Saturno",
+            "Neptuno",
+            "Urano"
+        ],
+        "correctOption": "Júpiter",
+        "hints": [
+            "Tiene un gran tamaño y es conocido por su distintiva banda de nubes.",
+            "También tiene una gran cantidad de lunas, incluida una de las lunas más grandes, Ganimedes."
+        ]
+    },
+    {
+        "id": 137,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la montaña más alta del mundo?",
+        "options": [
+            "Monte Everest",
+            "Monte Kilimanjaro",
+            "Monte McKinley",
+            "Monte Aconcagua"
+        ],
+        "correctOption": "Monte Everest",
+        "hints": [
+            "Se encuentra en la cordillera del Himalaya, en Asia.",
+            "Es una meta importante para los alpinistas y escaladores de montaña."
+        ]
+    },
+    {
+        "id": 138,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Quién escribió la famosa obra 'Romeo y Julieta'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "correctOption": "William Shakespeare",
+        "hints": [
+            "Es uno de los dramaturgos y escritores más influyentes de la literatura mundial.",
+            "La obra es una tragedia romántica que ha sido adaptada en varias formas a lo largo de los años."
+        ]
+    },
+    {
+        "id": 139,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué país se encuentra la famosa Torre Eiffel?",
+        "options": [
+            "Francia",
+            "Italia",
+            "España",
+            "Reino Unido"
+        ],
+        "correctOption": "Francia",
+        "hints": [
+            "Es uno de los monumentos más icónicos del mundo.",
+            "Fue construida como una estructura temporal para la Exposición Universal de París en 1889."
+        ]
+    },
+    {
+        "id": 140,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Océano Pacífico",
+            "Océano Atlántico",
+            "Océano Índico",
+            "Océano Ártico"
+        ],
+        "correctOption": "Océano Pacífico",
+        "hints": [
+            "Cubre un área vasta y contiene muchas islas y archipiélagos.",
+            "Es conocido por su importancia económica y su influencia en los patrones climáticos."
+        ]
+    },
+    {
+        "id": 141,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué continente se encuentra el desierto del Sahara?",
+        "options": [
+            "África",
+            "Asia",
+            "América del Norte",
+            "Europa"
+        ],
+        "correctOption": "África",
+        "hints": [
+            "Es el desierto más grande del mundo por área.",
+            "Cubre una gran parte del norte de África y está compuesto por vastas extensiones de arena y dunas."
+        ]
+    },
+    {
+        "id": 142,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la moneda oficial de Japón?",
+        "options": [
+            "Yen",
+            "Dólar",
+            "Euro",
+            "Rublo"
+        ],
+        "correctOption": "Yen",
+        "hints": [
+            "Es una moneda ampliamente utilizada en el país y en el comercio internacional.",
+            "Viene en diversas denominaciones y tiene símbolos únicos, como el símbolo del yen (¥)."
+        ]
+    },
+    {
+        "id": 143,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Qué famosa pintura contiene a 'La Mona Lisa'?",
+        "options": [
+            "La Gioconda",
+            "La Noche Estrellada",
+            "El Grito",
+            "El Beso"
+        ],
+        "correctOption": "La Gioconda",
+        "hints": [
+            "Es una obra maestra del Renacimiento italiano pintada por Leonardo da Vinci.",
+            "La pintura es conocida por la enigmática sonrisa de su protagonista femenina."
+        ]
+    },
+    {
+        "id": 144,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el país más grande del mundo por área de tierra?",
+        "options": [
+            "Rusia",
+            "China",
+            "Estados Unidos",
+            "Canadá"
+        ],
+        "correctOption": "Rusia",
+        "hints": [
+            "Se extiende a través de Europa del Este y Asia del Norte.",
+            "Tiene una gran diversidad geográfica y cultural debido a su vasta extensión."
+        ]
+    },
+    {
+        "id": 145,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía?",
+        "options": [
+            "Fotosíntesis",
+            "Respiración",
+            "Transpiración",
+            "Fermentación"
+        ],
+        "correctOption": "Fotosíntesis",
+        "hints": [
+            "Es un proceso fundamental para la vida en la Tierra.",
+            "Las plantas utilizan la energía solar para convertir dióxido de carbono y agua en glucosa y oxígeno."
+        ]
+    },
+    {
+        "id": 146,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es el país conocido como 'la tierra del sol naciente'?",
+        "options": [
+            "Japón",
+            "China",
+            "Corea del Sur",
+            "India"
+        ],
+        "correctOption": "Japón",
+        "hints": [
+            "Es un país insular en el este de Asia.",
+            "Tiene una rica historia y cultura, y es conocido por su tecnología avanzada y tradiciones únicas."
+        ]
+    },
+    {
+        "id": 147,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Qué famoso científico formuló la teoría de la relatividad?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "correctOption": "Albert Einstein",
+        "hints": [
+            "Es uno de los científicos más influyentes de la historia.",
+            "Su teoría de la relatividad revolucionó nuestra comprensión del espacio, el tiempo y la gravedad."
+        ]
+    },
+    {
+        "id": 148,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Cuál es la montaña más alta de América del Norte?",
+        "options": [
+            "Monte McKinley",
+            "Monte Everest",
+            "Monte Aconcagua",
+            "Monte Kilimanjaro"
+        ],
+        "correctOption": "Monte McKinley",
+        "hints": [
+            "También se conoce como Denali.",
+            "Se encuentra en el estado de Alaska en los Estados Unidos y es la montaña más alta de América del Norte."
+        ]
+    },
+    {
+        "id": 149,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿Qué instrumento musical tiene cuerdas, teclas y pedales?",
+        "options": [
+            "Piano",
+            "Violín",
+            "Guitarra",
+            "Trompeta"
+        ],
+        "correctOption": "Piano",
+        "hints": [
+            "Es conocido por su amplio rango de notas y su capacidad para expresar una amplia gama de emociones.",
+            "Es ampliamente utilizado en música clásica y contemporánea."
+        ]
+    },
+    {
+        "id": 150,
+        "genre": "Cultura General",
+        "difficulty": "Experto",
+        "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "options": [
+            "1776",
+            "1789",
+            "1812",
+            "1865"
+        ],
+        "correctOption": "1776",
+        "hints": [
+            "Fue un momento crucial en la historia de los Estados Unidos.",
+            "La Declaración proclamó la independencia de las Trece Colonias de Gran Bretaña y marcó el comienzo de la nación estadounidense."
+        ]
+    }
+]
